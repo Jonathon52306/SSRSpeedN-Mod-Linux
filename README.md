@@ -1,10 +1,32 @@
 # SSRSpeedN-Mod
-[机场奈飞解锁批量检测工具](https://github.com/youshandefeiyang/SSRSpeedN-Mod)基于项目[PauperZ/SSRSpeedN](https://github.com/PauperZ/SSRSpeedN)，砍掉测速功能（频繁测速会给机场其他用户造成巨大的影响），仅输出奈飞解锁检测，几乎不消耗任何流量！<br/>
+本项目基于项目[youshandefeiyang/SSRSpeedN-Mod](https://github.com/youshandefeiyang/SSRSpeedN-Mod)，砍掉测速功能（频繁测速会给机场其他用户造成巨大的影响），仅输出奈飞解锁检测，几乎不消耗任何流量！<br/>
+
+使用需要一点 python 基础
+
+## 运行环境
+`
+Macbook Pro
+macOS 11.6
+Python 3.9.5
+`
+
+## 使用步骤
+1. 先自行安装 Python3 环境，以及 pip3
+2. git clone 本库，或者下载 zip
+3. 命令行 cd 到库目录下 执行
+```terminal
+pip3 install -r requirements.txt
+```
+4.执行
+```terminal
+
+python3 main.py
+
+-u [订阅地址(不含银行，需转义)] (必填)
+-g [自定义测试组名] 
+--include-remark [使用关键字通过注释筛选节点] 
+--exclude-remark [通过使用关键字的注释排除节点] 
+```
+
 ## 效果预览：
 ![avatar](https://cdn.jsdelivr.net/gh/youshandefeiyang/webcdn@v4.3/share.png)
-## 使用方法【仅保证在Windows端正常运行】：
-1.安装Python 3.10.0（本项目以提供）！
-
-2.在检测工具根目录打开`开始检测.bat`，首先输入`3`获取管理员权限，然后输入`2`安装好运行所需依赖，安装好依赖后退出，重新打开`开始检测.bat`，输入`1`并按照提示开始检测！
-
-3.不会的可以去看[视频教程](https://www.youtube.com/watch?v=tTv1muckTFg)！

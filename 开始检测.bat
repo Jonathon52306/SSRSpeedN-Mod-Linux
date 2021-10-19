@@ -1,18 +1,18 @@
 @echo off&
 echo.
-echo ##### »ú³¡ÄÎ·É½âËøÅúÁ¿¼ì²â¹¤¾ß Mod By ·ÊÑò #####
+echo ##### æœºåœºå¥ˆé£è§£é”æ‰¹é‡æ£€æµ‹å·¥å…· Mod By è‚¥ç¾Š #####
 echo.
-if exist "%~dp0\main.py" (echo ÒÑÔÚ¼ì²â¹¤¾ßÄ¿Â¼ÏÂ£¬»¶Ó­Ê¹ÓÃ) else (echo Çë·ÅÔÚ¼ì²â¹¤¾ßÄ¿Â¼ÏÂÔËĞĞ£¡)
+if exist "%~dp0\main.py" (echo å·²åœ¨æ£€æµ‹å·¥å…·ç›®å½•ä¸‹ï¼Œæ¬¢è¿ä½¿ç”¨) else (echo è¯·æ”¾åœ¨æ£€æµ‹å·¥å…·ç›®å½•ä¸‹è¿è¡Œï¼)
 if exist "%SystemRoot%\SysWOW64" path %path%;%windir%\SysNative;%SystemRoot%\SysWOW64;%~dp0
 bcdedit >nul
-if '%errorlevel%' NEQ '0' (echo µ±Ç°ÎŞ¹ÜÀíÔ±È¨ÏŞ) else (echo µ±Ç°ÒÑ»ñÈ¡¹ÜÀíÔ±È¨ÏŞ)
+if '%errorlevel%' NEQ '0' (echo å½“å‰æ— ç®¡ç†å‘˜æƒé™) else (echo å½“å‰å·²è·å–ç®¡ç†å‘˜æƒé™)
 :start
 echo ====================================
-echo 1£º¿ªÊ¼²âËÙ£¨×Ô¶¨ÒåÉèÖÃ£©
-echo 2£ºÊ×´ÎÔËĞĞÇ°°²×°pipºÍÏà¹ØÖ§³Ö£¨ĞèÒª¹ÜÀíÔ±È¨ÏŞ£©
-echo 3£ºÎª±¾´ÎÔËĞĞ»ñÈ¡¹ÜÀíÔ±È¨ÏŞ
+echo 1ï¼šå¼€å§‹æµ‹é€Ÿï¼ˆè‡ªå®šä¹‰è®¾ç½®ï¼‰
+echo 2ï¼šé¦–æ¬¡è¿è¡Œå‰å®‰è£…pipå’Œç›¸å…³æ”¯æŒï¼ˆéœ€è¦ç®¡ç†å‘˜æƒé™ï¼‰
+echo 3ï¼šä¸ºæœ¬æ¬¡è¿è¡Œè·å–ç®¡ç†å‘˜æƒé™
 echo ====================================
-echo ÇëÑ¡Ôñ£¨1~3£©£º
+echo è¯·é€‰æ‹©ï¼ˆ1~3ï¼‰ï¼š
 choice /c 123
 if %errorlevel%==3 (goto :uac)
 if %errorlevel%==2 (goto :pip)
@@ -22,7 +22,7 @@ if %errorlevel%==1 (goto :test2)
 :pip
 if exist "%SystemRoot%\SysWOW64" path %path%;%windir%\SysNative;%SystemRoot%\SysWOW64;%~dp0
 bcdedit >nul
-if '%errorlevel%' NEQ '0' (echo #µ±Ç°ÎŞ¹ÜÀíÔ±È¨ÏŞ£¬ÎŞ·¨°²×°¡£ && echo. && echo #Äú¿ÉÒÔÍ¨¹ıÃüÁî3»ñÈ¡È¨ÏŞ£¬»òÓÒ¼üÒÔ¹ÜÀíÔ±È¨ÏŞÆô¶¯¡£ && pause && goto :start) else (goto :pip2)
+if '%errorlevel%' NEQ '0' (echo #å½“å‰æ— ç®¡ç†å‘˜æƒé™ï¼Œæ— æ³•å®‰è£…ã€‚ && echo. && echo #æ‚¨å¯ä»¥é€šè¿‡å‘½ä»¤3è·å–æƒé™ï¼Œæˆ–å³é”®ä»¥ç®¡ç†å‘˜æƒé™å¯åŠ¨ã€‚ && pause && goto :start) else (goto :pip2)
 :pip2
 python -m pip install --upgrade pip
 pip3 install -r %~dp0%\requirements.txt
@@ -40,20 +40,20 @@ goto :start
 
 :test2
 echo.
-echo      ÒÔÏÂ×Ô¶¨ÒåÑ¡ÏîÁô¿Õ»Ø³µ¼´¿ÉÌø¹ı
+echo      ä»¥ä¸‹è‡ªå®šä¹‰é€‰é¡¹ç•™ç©ºå›è½¦å³å¯è·³è¿‡
 echo.
 :test3
-set /p a=ÇëÊäÈëÄúµÄ¶©ÔÄÁ´½Ó(ÓÒ¼üÖ±½ÓÕ³Ìù£¬²»¿ÉÁô¿Õ):
+set /p a=è¯·è¾“å…¥æ‚¨çš„è®¢é˜…é“¾æ¥(å³é”®ç›´æ¥ç²˜è´´ï¼Œä¸å¯ç•™ç©º):
 if "%a%"=="" (
 goto :test3
 ) else (
 goto :jx1
 )
 :jx1
-echo      ÒÔÏÂ2Ïî¿ÉÒÔÍ¨¹ı¿Õ¸ñ·Ö¸ô¹Ø¼ü´Ê
-set /p e=1.Ê¹ÓÃ¹Ø¼ü×ÖÍ¨¹ı×¢ÊÍÉ¸Ñ¡½Úµã:
-set /p i=2.Í¨¹ıÊ¹ÓÃ¹Ø¼ü×ÖµÄ×¢ÊÍÅÅ³ı½Úµã:
-set /p k=3.ÇëÊäÈë²âËÙ×éÃû:
+echo      ä»¥ä¸‹2é¡¹å¯ä»¥é€šè¿‡ç©ºæ ¼åˆ†éš”å…³é”®è¯
+set /p e=1.ä½¿ç”¨å…³é”®å­—é€šè¿‡æ³¨é‡Šç­›é€‰èŠ‚ç‚¹:
+set /p i=2.é€šè¿‡ä½¿ç”¨å…³é”®å­—çš„æ³¨é‡Šæ’é™¤èŠ‚ç‚¹:
+set /p k=3.è¯·è¾“å…¥æµ‹é€Ÿç»„å:
 echo.
 if "%e%"=="" (
 set e= && goto :jx1
@@ -91,15 +91,15 @@ if exist "%SystemRoot%\SysWOW64" path %path%;%windir%\SysNative;%SystemRoot%\Sys
 bcdedit >nul
 if '%errorlevel%' NEQ '0' (goto UACPrompt) else (goto UACAdmin)
 :UACPrompt
-echo ÌáÊ¾£ºÍ¨ÓÃÒÀÀµ°²×°ĞèÒª¹ÜÀíÔ±È¨ÏŞ
+echo æç¤ºï¼šé€šç”¨ä¾èµ–å®‰è£…éœ€è¦ç®¡ç†å‘˜æƒé™
 echo.
-echo      ³¢ÊÔ»ñÈ¡¹ÜÀíÔ±È¨ÏŞ£¬³ÌĞò½«ÖØÆô
+echo      å°è¯•è·å–ç®¡ç†å‘˜æƒé™ï¼Œç¨‹åºå°†é‡å¯
 ping -n 3 127.0.0.1>nul && %1 start "" mshta vbscript:createobject("shell.application").shellexecute("""%~0""","::",,"runas",1)(window.close)&exit
 exit /B
 :UACAdmin
 cd /d "%~dp0"
 echo.
-echo ÒÑ»ñÈ¡¹ÜÀíÔ±È¨ÏŞ
+echo å·²è·å–ç®¡ç†å‘˜æƒé™
 echo.
 pause
 goto :start

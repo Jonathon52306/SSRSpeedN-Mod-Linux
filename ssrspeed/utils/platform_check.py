@@ -6,7 +6,7 @@ logger = logging.getLogger("Sub")
 
 def check_platform():
 		tmp = platform.platform()
-		logger.info("Platform Info : {}".format(str(tmp)))
+		# logger.info("Platform Info : {}".format(str(tmp)))
 		if ("Windows" in tmp):
 			return "Windows"
 		elif("Linux" in tmp):

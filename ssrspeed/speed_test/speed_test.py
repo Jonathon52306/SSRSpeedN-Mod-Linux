@@ -315,16 +315,16 @@ class SpeedTest(object):
 					if test_mode == "WPS":
 						res = st.startWpsTest()
 						_item["webPageSimulation"]["results"] = res
-						logger.info("[{}] - [{}] - Loss: [{:.2f}%] - TCP Ping: [{:.2f}] - Google Loss: [{:.2f}%] - Google Ping: [{:.2f}] - [WebPageSimulation]".format
-							(
-								_item["group"],
-								_item["remarks"],
-								_item["loss"] * 100,
-								int(_item["ping"] * 1000),
-								_item["gPingLoss"] * 100,
-								int(_item["gPing"] * 1000)
-							)
-						)
+						# logger.info("[{}] - [{}] - Loss: [{:.2f}%] - TCP Ping: [{:.2f}] - Google Loss: [{:.2f}%] - Google Ping: [{:.2f}] - [WebPageSimulation]".format
+						# 	(
+						# 		_item["group"],
+						# 		_item["remarks"],
+						# 		_item["loss"] * 100,
+						# 		int(_item["ping"] * 1000),
+						# 		_item["gPingLoss"] * 100,
+						# 		int(_item["gPing"] * 1000)
+						# 	)
+						# )
 					elif test_mode == "PING":
 						nat_info = ""
 						if config["ntt"]["enabled"]:
@@ -341,17 +341,17 @@ class SpeedTest(object):
 									nat_info += " - Internal End: {}:{}".format(sip, sport)
 									nat_info += " - Public End: {}:{}".format(eip, eport)
 
-						logger.info("[{}] - [{}] - Loss: [{:.2f}%] - TCP Ping: [{:.2f}] - Google Loss: [{:.2f}%] - Google Ping: [{:.2f}]{}".format
-							(
-								_item["group"],
-								_item["remarks"],
-								_item["loss"] * 100,
-								int(_item["ping"] * 1000),
-								_item["gPingLoss"] * 100,
-								int(_item["gPing"] * 1000),
-								nat_info
-							)
-						)
+						# logger.info("[{}] - [{}] - Loss: [{:.2f}%] - TCP Ping: [{:.2f}] - Google Loss: [{:.2f}%] - Google Ping: [{:.2f}]{}".format
+						# 	(
+						# 		_item["group"],
+						# 		_item["remarks"],
+						# 		_item["loss"] * 100,
+						# 		int(_item["ping"] * 1000),
+						# 		_item["gPingLoss"] * 100,
+						# 		int(_item["gPing"] * 1000),
+						# 		nat_info
+						# 	)
+						# )
 
 					elif test_mode == "FULL":
 						nat_info = ""
@@ -383,19 +383,19 @@ class SpeedTest(object):
 						except:
 							pass
 
-						logger.info("[{}] - [{}] - Loss: [{:.2f}%] - TCP Ping: [{:.2f}] - Google Loss: [{:.2f}%] - Google Ping: [{:.2f}] - AvgStSpeed: [{:.2f}MB/s] - AvgMtSpeed: [{:.2f}MB/s]{}".format
-							(
-								_item["group"],
-								_item["remarks"],
-								_item["loss"] * 100,
-								int(_item["ping"] * 1000),
-								_item["gPingLoss"] * 100,
-								int(_item["gPing"] * 1000),
-								_item["dspeed"] / 1024 / 1024,
-								_item["maxDSpeed"] / 1024 / 1024,
-								nat_info
-							)
-						)
+						# logger.info("[{}] - [{}] - Loss: [{:.2f}%] - TCP Ping: [{:.2f}] - Google Loss: [{:.2f}%] - Google Ping: [{:.2f}] - AvgStSpeed: [{:.2f}MB/s] - AvgMtSpeed: [{:.2f}MB/s]{}".format
+						# 	(
+						# 		_item["group"],
+						# 		_item["remarks"],
+						# 		_item["loss"] * 100,
+						# 		int(_item["ping"] * 1000),
+						# 		_item["gPingLoss"] * 100,
+						# 		int(_item["gPing"] * 1000),
+						# 		_item["dspeed"] / 1024 / 1024,
+						# 		_item["maxDSpeed"] / 1024 / 1024,
+						# 		nat_info
+						# 	)
+						# )
 					else:
 						logger.error(f"Unknown Test Mode {test_mode}")
 			except Exception:

@@ -48,7 +48,7 @@ class BaseClient(object):
 				self._process.send_signal(signal.SIGINT)
 	#		print (self.__process.returncode)
 			self._process = None
-			logger.info("Client terminated.")
+			# logger.info("Client terminated.")
 	#	self.__ssrProcess.terminate()
 
 if (__name__ == "__main__"):

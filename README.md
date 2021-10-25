@@ -33,4 +33,4 @@ python3 main.py
 [在线转义工具](https://codeplayer.vip/app/string-escape)，输入输出都选择「纯文本」
 
 ## 效果预览：
-![avatar](https://cdn.jsdelivr.net/gh/youshandefeiyang/webcdn@v4.3/share.png)
+![avatar](https://raw.githubusercontent.com/chinnsenn/BlogFigureBed/master/blogimg2021-10-20-17-57-29_%E5%89%AF%E6%9C%AC.png)

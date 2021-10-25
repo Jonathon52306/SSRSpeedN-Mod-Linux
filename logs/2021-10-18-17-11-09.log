@@ -1,0 +1,9 @@
+[2021-10-18 17:11:09,814][INFO][4547857920][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 17:11:09,815][INFO][4547857920][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 17:11:09,815][INFO][4547857920][requirements_check.py:73]Checking libsodium.
+[2021-10-18 17:11:09,815][INFO][4547857920][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 17:11:12,997][INFO][4547857920][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 17:11:12,997][INFO][4547857920][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 17:11:13,000][INFO][4547857920][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 17:11:13,000][INFO][4547857920][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 17:11:13,001][INFO][4547857920][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2

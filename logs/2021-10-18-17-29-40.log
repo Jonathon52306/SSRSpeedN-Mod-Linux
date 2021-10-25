@@ -1,0 +1,8 @@
+[2021-10-18 17:29:40,812][INFO][4491439616][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 17:29:40,812][INFO][4491439616][requirements_check.py:73]Checking libsodium.
+[2021-10-18 17:29:43,325][INFO][4491439616][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 17:29:43,326][INFO][4491439616][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 17:29:43,328][INFO][4491439616][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 17:29:43,328][INFO][4491439616][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 17:29:43,328][INFO][4491439616][config_parser.py:176]Reading https://free.v2rss.ml/api/v1/client/subscribe\?token\=1ea0baf4358ed2719e89aed2c7ce0f03
+[2021-10-18 17:29:44,249][INFO][4491439616][config_parser.py:220]Base64 decode failed.

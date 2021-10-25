@@ -1,0 +1,626 @@
+[2021-10-19 16:59:20,690][INFO][4518080000][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-19 16:59:20,691][INFO][4518080000][requirements_check.py:73]Checking libsodium.
+[2021-10-19 16:59:30,105][INFO][4518080000][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-19 16:59:30,106][INFO][4518080000][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-19 16:59:30,108][INFO][4518080000][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-19 16:59:30,108][INFO][4518080000][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-19 16:59:30,109][INFO][4518080000][config_parser.py:176]Reading https://v1.mk/Q01xifi
+[2021-10-19 16:59:38,804][INFO][4518080000][config_parser.py:220]Base64 decode failed.
+[2021-10-19 16:59:43,116][WARNING][4518080000][node_filters.py:37]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） H 1000Mbps (hr07.cathayroute.com:33400) already in list.
+[2021-10-19 16:59:43,220][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 IPV6 日本 C01
+[2021-10-19 16:59:43,220][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） A 1000Mbps
+[2021-10-19 16:59:43,220][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） B 1000Mbps
+[2021-10-19 16:59:43,220][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） C 1000Mbps
+[2021-10-19 16:59:43,220][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） D 1000Mbps
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） E 1000Mbps
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） F 1000Mbps
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） G 1000Mbps
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） I 1000Mbps
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） J 1000Mbps
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C01 Netflix
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C02 Netflix
+[2021-10-19 16:59:43,221][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C03 Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C04 Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C05 Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C06 Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C07 Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C08 Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C01 500Mbps 1x Netflix
+[2021-10-19 16:59:43,222][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C02 500Mbps 1x Netflix
+[2021-10-19 16:59:43,223][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C03 500Mbps 1x Netflix
+[2021-10-19 16:59:43,223][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C04 500Mbps 1x Netflix
+[2021-10-19 16:59:43,223][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C05 500Mbps 1x Netflix
+[2021-10-19 16:59:43,223][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C06 500Mbps 1x Netflix
+[2021-10-19 16:59:43,223][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C07 500Mbps 1x Netflix
+[2021-10-19 16:59:43,224][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C08 500Mbps 1x Netflix
+[2021-10-19 16:59:43,224][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C09 500Mbps 1x Netflix
+[2021-10-19 16:59:43,224][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C10 500Mbps 1x Netflix
+[2021-10-19 16:59:43,224][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C11 500Mbps 1x Netflix
+[2021-10-19 16:59:43,225][INFO][4518080000][config_parser.py:152]netflix - 🇯🇵 日本 ソフトバンク C12 500Mbps 1x Netflix
+[2021-10-19 16:59:43,226][INFO][4518080000][ssrspeed_core.py:165]30 node(s) will be test.
+[2021-10-19 16:59:43,228][INFO][4518080000][speed_test.py:421]Test mode : speed and tcp ping.Test method : FAST.
+[2021-10-19 16:59:43,228][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 IPV6 日本 C01 [1/30]
+[2021-10-19 16:59:43,236][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 2401:2500:204:1102:153:127:9:202:33400
+[2021-10-19 16:59:44,240][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 16:59:45,245][INFO][4518080000][geo_ip.py:46]Translating 2401:2500:204:1102:153:127:9:202 to ipv4.
+[2021-10-19 16:59:45,248][ERROR][4518080000][geo_ip.py:54]Translate 2401:2500:204:1102:153:127:9:202 to ipv4 failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 51, in domain2ip
+    ip = socket.gethostbyname(domain)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-19 16:59:45,250][ERROR][4518080000][geo_ip.py:61]Invalid IP : N/A
+[2021-10-19 16:59:45,250][INFO][4518080000][speed_test.py:111]Node inbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-19 16:59:45,251][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 16:59:45,251][ERROR][4518080000][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-19 16:59:45,253][ERROR][4518080000][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-19 16:59:45,254][ERROR][4518080000][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-19 16:59:46,259][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 16:59:46,295][ERROR][4518080000][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-19 16:59:46,307][INFO][4518080000][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-19 16:59:46,308][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 16:59:46,334][ERROR][4518080000][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-19 16:59:47,337][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） A 1000Mbps [2/30]
+[2021-10-19 16:59:47,347][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr01.cathayroute.com:33400
+[2021-10-19 16:59:48,353][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 16:59:49,357][INFO][4518080000][geo_ip.py:46]Translating hr01.cathayroute.com to ipv4.
+[2021-10-19 16:59:49,359][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 16:59:50,542][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.200, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 16:59:50,548][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 16:59:52,294][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 16:59:55,153][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 16:59:56,266][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.228, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 16:59:56,266][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 16:59:58,570][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 16:59:59,666][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 16:59:59,666][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:00:00,940][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:00,940][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:00:00,941][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:01,944][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） B 1000Mbps [3/30]
+[2021-10-19 17:00:01,955][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr02.cathayroute.com:33400
+[2021-10-19 17:00:02,960][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:00:03,968][INFO][4518080000][geo_ip.py:46]Translating hr02.cathayroute.com to ipv4.
+[2021-10-19 17:00:03,970][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:05,156][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.201, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:00:05,157][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:00:06,978][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:00:09,664][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:10,845][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.229, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:00:10,846][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:00:13,038][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:00:14,014][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:00:14,015][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:00:15,386][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:15,386][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:00:15,387][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:16,391][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） C 1000Mbps [4/30]
+[2021-10-19 17:00:16,401][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr03.cathayroute.com:33400
+[2021-10-19 17:00:17,405][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:00:18,411][INFO][4518080000][geo_ip.py:46]Translating hr03.cathayroute.com to ipv4.
+[2021-10-19 17:00:18,413][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:19,792][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.89, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:00:19,792][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:00:22,204][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:00:26,050][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:27,875][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.104, Geo : Japan Osaka, xTom
+[2021-10-19 17:00:27,875][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:00:30,276][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:00:31,591][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:00:31,592][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:00:33,119][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:33,120][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:00:33,120][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:34,122][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） D 1000Mbps [5/30]
+[2021-10-19 17:00:34,131][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr04.cathayroute.com:33400
+[2021-10-19 17:00:35,136][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:00:36,144][INFO][4518080000][geo_ip.py:46]Translating hr04.cathayroute.com to ipv4.
+[2021-10-19 17:00:36,147][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:37,700][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.90, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:00:37,701][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:00:39,867][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:00:43,050][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:44,298][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.105, Geo : Japan Osaka, xTom
+[2021-10-19 17:00:44,299][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:00:47,105][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:00:48,359][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:00:48,360][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:00:49,103][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:49,104][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:00:49,104][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:00:50,107][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） E 1000Mbps [6/30]
+[2021-10-19 17:00:50,117][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr05.cathayroute.com:33400
+[2021-10-19 17:00:51,120][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:00:52,127][INFO][4518080000][geo_ip.py:46]Translating hr05.cathayroute.com to ipv4.
+[2021-10-19 17:00:52,130][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:00:53,701][INFO][4518080000][speed_test.py:111]Node inbound IP : 223.87.193.132, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-19 17:00:53,701][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:00:56,261][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:00:59,867][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:01,746][INFO][4518080000][speed_test.py:127]Node outbound IP : 54.238.172.226, Geo : Japan Tokyo, Amazon.com
+[2021-10-19 17:01:01,747][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:01:05,023][INFO][4518080000][speed_test.py:153]Netflix IP : 54.238.172.226
+[2021-10-19 17:01:07,514][INFO][4518080000][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-19 17:01:07,517][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:01:08,587][ERROR][4518080000][speed_test.py:227]
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/speed_test.py", line 219, in __nat_type_test
+    t, eip, eport, sip = pynat.get_ip_info(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/pynat.py", line 238, in get_ip_info
+    source_ip = get_internal_ip(stun_addr)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/pynat.py", line 163, in get_internal_ip
+    sock.connect(test_addr)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-19 17:01:08,595][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:08,596][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:01:08,596][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:09,597][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） F 1000Mbps [7/30]
+[2021-10-19 17:01:09,607][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr06.cathayroute.com:33400
+[2021-10-19 17:01:10,613][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:01:11,623][INFO][4518080000][geo_ip.py:46]Translating hr06.cathayroute.com to ipv4.
+[2021-10-19 17:01:11,626][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:12,853][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.201, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:01:12,853][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:01:14,508][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:01:16,374][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:17,558][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.229, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:01:17,558][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:01:20,729][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:01:21,746][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:01:21,747][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:01:25,609][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:25,610][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:01:25,610][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:26,611][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） G 1000Mbps [8/30]
+[2021-10-19 17:01:26,620][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr07.cathayroute.com:33400
+[2021-10-19 17:01:27,626][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:01:28,631][INFO][4518080000][geo_ip.py:46]Translating hr07.cathayroute.com to ipv4.
+[2021-10-19 17:01:28,634][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:30,042][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.89, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:01:30,042][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:01:32,043][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:01:34,774][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:36,194][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.104, Geo : Japan Osaka, xTom
+[2021-10-19 17:01:36,194][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:01:39,078][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:01:40,819][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:01:40,820][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:01:41,830][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:41,831][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:01:41,831][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:42,833][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） I 1000Mbps [9/30]
+[2021-10-19 17:01:42,843][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr08.cathayroute.com:33400
+[2021-10-19 17:01:43,849][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:01:44,856][INFO][4518080000][geo_ip.py:46]Translating hr08.cathayroute.com to ipv4.
+[2021-10-19 17:01:44,858][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:46,160][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.90, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:01:46,161][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:01:48,205][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:01:51,129][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:01:52,479][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.105, Geo : Japan Osaka, xTom
+[2021-10-19 17:01:52,480][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:01:54,729][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:01:56,006][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:01:56,006][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:01:56,839][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:56,839][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:01:56,839][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:01:57,844][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 多协议标签交换虚拟专用网（三） J 1000Mbps [10/30]
+[2021-10-19 17:01:57,856][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server hr10.cathayroute.com:33400
+[2021-10-19 17:01:58,861][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:01:59,869][INFO][4518080000][geo_ip.py:46]Translating hr10.cathayroute.com to ipv4.
+[2021-10-19 17:01:59,872][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:01,773][INFO][4518080000][speed_test.py:111]Node inbound IP : 223.87.193.132, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-19 17:02:01,773][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:02:05,843][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:02:10,862][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:12,402][INFO][4518080000][speed_test.py:127]Node outbound IP : 54.238.172.226, Geo : Japan Tokyo, Amazon.com
+[2021-10-19 17:02:12,403][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:02:15,460][INFO][4518080000][speed_test.py:153]Netflix IP : 54.238.172.226
+[2021-10-19 17:02:18,212][INFO][4518080000][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-19 17:02:18,212][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:02:19,424][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:02:19,425][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:02:19,425][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:02:20,428][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C01 Netflix [11/30]
+[2021-10-19 17:02:20,438][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp01.cathayroute.com:33400
+[2021-10-19 17:02:21,441][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:02:22,451][INFO][4518080000][geo_ip.py:46]Translating jp01.cathayroute.com to ipv4.
+[2021-10-19 17:02:22,453][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:24,130][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.89, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:02:24,130][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:02:26,171][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:02:29,175][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:30,526][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.104, Geo : Japan Osaka, xTom
+[2021-10-19 17:02:30,526][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:02:33,035][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:02:34,562][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:02:34,564][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:02:35,581][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:02:35,582][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:02:35,582][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:02:36,589][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C02 Netflix [12/30]
+[2021-10-19 17:02:36,594][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp02.cathayroute.com:33400
+[2021-10-19 17:02:37,600][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:02:38,609][INFO][4518080000][geo_ip.py:46]Translating jp02.cathayroute.com to ipv4.
+[2021-10-19 17:02:38,610][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:39,890][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.90, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:02:39,891][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:02:41,968][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:02:44,859][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:46,156][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.105, Geo : Japan Osaka, xTom
+[2021-10-19 17:02:46,156][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:02:48,456][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:02:49,744][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:02:49,746][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:02:51,358][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:02:51,359][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:02:51,359][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:02:52,362][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C03 Netflix [13/30]
+[2021-10-19 17:02:52,366][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp03.cathayroute.com:33400
+[2021-10-19 17:02:53,372][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:02:54,389][INFO][4518080000][geo_ip.py:46]Translating jp03.cathayroute.com to ipv4.
+[2021-10-19 17:02:54,400][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:02:55,570][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.200, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:02:55,571][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:02:57,247][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:02:59,357][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:00,454][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.228, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:03:00,454][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:03:02,632][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:03:03,736][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:03:03,737][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:03:04,593][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:04,594][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:03:04,594][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:05,599][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C04 Netflix [14/30]
+[2021-10-19 17:03:05,609][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp04.cathayroute.com:33400
+[2021-10-19 17:03:06,612][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:03:07,619][INFO][4518080000][geo_ip.py:46]Translating jp04.cathayroute.com to ipv4.
+[2021-10-19 17:03:07,621][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:08,719][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.201, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:03:08,719][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:03:10,360][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:03:12,560][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:14,726][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.229, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:03:14,727][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:03:17,023][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:03:19,309][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:03:19,309][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:03:20,081][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:20,082][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:03:20,083][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:21,086][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C05 Netflix [15/30]
+[2021-10-19 17:03:21,090][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp05.cathayroute.com:33400
+[2021-10-19 17:03:22,097][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:03:23,106][INFO][4518080000][geo_ip.py:46]Translating jp05.cathayroute.com to ipv4.
+[2021-10-19 17:03:23,111][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:24,370][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.89, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:03:24,371][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:03:26,399][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:03:29,381][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:30,689][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.104, Geo : Japan Osaka, xTom
+[2021-10-19 17:03:30,690][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:03:33,197][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:03:34,287][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:03:34,288][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:03:35,124][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:35,124][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:03:35,124][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:36,129][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C06 Netflix [16/30]
+[2021-10-19 17:03:36,141][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp06.cathayroute.com:33400
+[2021-10-19 17:03:37,148][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:03:38,157][INFO][4518080000][geo_ip.py:46]Translating jp06.cathayroute.com to ipv4.
+[2021-10-19 17:03:38,159][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:40,916][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.90, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:03:40,917][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:03:42,885][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:03:45,892][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:47,151][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.105, Geo : Japan Osaka, xTom
+[2021-10-19 17:03:47,151][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:03:49,461][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:03:50,522][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:03:50,523][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:03:51,560][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:51,560][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:03:51,561][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:03:52,565][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C07 Netflix [17/30]
+[2021-10-19 17:03:52,584][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp07.cathayroute.com:33400
+[2021-10-19 17:03:53,589][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:03:54,596][INFO][4518080000][geo_ip.py:46]Translating jp07.cathayroute.com to ipv4.
+[2021-10-19 17:03:54,598][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:03:55,936][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.200, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:03:55,937][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:03:57,997][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:04:00,624][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:01,761][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.228, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:04:01,761][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:04:03,926][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:04:05,259][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:04:05,259][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:04:06,305][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:06,305][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:04:06,305][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:07,306][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇨🇳 中国-日本 沪日IEPL传输 Equinix-TY8 C08 Netflix [18/30]
+[2021-10-19 17:04:07,313][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jp08.cathayroute.com:33400
+[2021-10-19 17:04:08,315][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:04:09,323][INFO][4518080000][geo_ip.py:46]Translating jp08.cathayroute.com to ipv4.
+[2021-10-19 17:04:09,326][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:10,794][INFO][4518080000][speed_test.py:111]Node inbound IP : 223.87.193.132, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-19 17:04:10,794][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:04:13,513][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:04:17,087][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:18,508][INFO][4518080000][speed_test.py:127]Node outbound IP : 54.238.172.226, Geo : Japan Tokyo, Amazon.com
+[2021-10-19 17:04:18,509][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:04:20,979][INFO][4518080000][speed_test.py:153]Netflix IP : 54.238.172.226
+[2021-10-19 17:04:23,746][INFO][4518080000][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-19 17:04:23,747][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:04:24,921][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:24,922][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:04:24,922][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:25,927][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C01 500Mbps 1x Netflix [19/30]
+[2021-10-19 17:04:25,936][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb01.cathayroute.com:33400
+[2021-10-19 17:04:26,942][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:04:27,951][INFO][4518080000][geo_ip.py:46]Translating jpsb01.cathayroute.com to ipv4.
+[2021-10-19 17:04:27,953][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:29,050][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.200, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:04:29,050][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:04:30,654][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:04:32,504][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:33,645][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.228, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:04:33,646][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:04:35,536][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:04:36,575][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:04:36,575][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:04:38,783][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:38,784][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:04:38,786][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:39,791][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C02 500Mbps 1x Netflix [20/30]
+[2021-10-19 17:04:39,801][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb02.cathayroute.com:33400
+[2021-10-19 17:04:40,808][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:04:41,816][INFO][4518080000][geo_ip.py:46]Translating jpsb02.cathayroute.com to ipv4.
+[2021-10-19 17:04:41,819][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:43,016][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.201, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:04:43,016][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:04:44,743][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:04:46,556][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:47,699][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.229, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:04:47,700][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:04:49,870][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:04:51,199][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:04:51,200][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:04:52,316][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:52,317][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:04:52,317][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:04:53,318][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C03 500Mbps 1x Netflix [21/30]
+[2021-10-19 17:04:53,323][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb03.cathayroute.com:33400
+[2021-10-19 17:04:54,329][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:04:55,336][INFO][4518080000][geo_ip.py:46]Translating jpsb03.cathayroute.com to ipv4.
+[2021-10-19 17:04:55,338][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:04:57,304][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.89, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:04:57,305][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:04:59,752][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:05:02,445][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:03,689][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.104, Geo : Japan Osaka, xTom
+[2021-10-19 17:05:03,690][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:05:06,243][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:05:07,596][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:05:07,597][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:05:08,896][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:08,896][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:05:08,896][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:09,901][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C04 500Mbps 1x Netflix [22/30]
+[2021-10-19 17:05:09,908][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb04.cathayroute.com:33400
+[2021-10-19 17:05:10,912][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:05:11,923][INFO][4518080000][geo_ip.py:46]Translating jpsb04.cathayroute.com to ipv4.
+[2021-10-19 17:05:11,925][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:13,152][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.90, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:05:13,153][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:05:15,412][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:05:19,226][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:20,743][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.105, Geo : Japan Osaka, xTom
+[2021-10-19 17:05:20,744][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:05:23,323][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:05:24,528][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:05:24,529][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:05:25,351][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:25,352][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:05:25,352][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:26,358][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C05 500Mbps 1x Netflix [23/30]
+[2021-10-19 17:05:26,368][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb05.cathayroute.com:33400
+[2021-10-19 17:05:27,373][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:05:28,379][INFO][4518080000][geo_ip.py:46]Translating jpsb05.cathayroute.com to ipv4.
+[2021-10-19 17:05:28,381][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:29,681][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.200, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:05:29,682][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:05:31,576][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:05:34,026][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:35,197][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.228, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:05:35,198][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:05:37,340][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:05:38,300][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:05:38,300][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:05:39,442][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:39,443][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:05:39,443][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:40,448][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C06 500Mbps 1x Netflix [24/30]
+[2021-10-19 17:05:40,482][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb06.cathayroute.com:33400
+[2021-10-19 17:05:41,495][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:05:42,503][INFO][4518080000][geo_ip.py:46]Translating jpsb06.cathayroute.com to ipv4.
+[2021-10-19 17:05:42,504][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:43,997][INFO][4518080000][speed_test.py:111]Node inbound IP : 223.87.193.132, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-19 17:05:43,998][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:05:46,559][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:05:51,812][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:05:53,295][INFO][4518080000][speed_test.py:127]Node outbound IP : 54.238.172.226, Geo : Japan Tokyo, Amazon.com
+[2021-10-19 17:05:53,295][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:05:55,670][INFO][4518080000][speed_test.py:153]Netflix IP : 54.238.172.226
+[2021-10-19 17:05:58,482][INFO][4518080000][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-19 17:05:58,483][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:05:59,692][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:05:59,693][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:05:59,694][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:00,699][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C07 500Mbps 1x Netflix [25/30]
+[2021-10-19 17:06:00,705][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb07.cathayroute.com:33400
+[2021-10-19 17:06:01,711][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:06:02,717][INFO][4518080000][geo_ip.py:46]Translating jpsb07.cathayroute.com to ipv4.
+[2021-10-19 17:06:02,718][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:04,711][INFO][4518080000][speed_test.py:111]Node inbound IP : 223.87.193.132, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-19 17:06:04,711][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:06:08,320][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:06:13,718][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:15,836][INFO][4518080000][speed_test.py:127]Node outbound IP : 54.238.172.226, Geo : Japan Tokyo, Amazon.com
+[2021-10-19 17:06:15,836][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:06:18,568][INFO][4518080000][speed_test.py:153]Netflix IP : 54.238.172.226
+[2021-10-19 17:06:21,255][INFO][4518080000][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-19 17:06:21,256][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:06:22,776][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:22,777][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:06:22,777][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:23,781][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C08 500Mbps 1x Netflix [26/30]
+[2021-10-19 17:06:23,795][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb08.cathayroute.com:33400
+[2021-10-19 17:06:24,803][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:06:25,811][INFO][4518080000][geo_ip.py:46]Translating jpsb08.cathayroute.com to ipv4.
+[2021-10-19 17:06:25,821][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:27,134][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.90, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:06:27,135][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:06:29,381][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:06:32,645][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:34,084][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.105, Geo : Japan Osaka, xTom
+[2021-10-19 17:06:34,084][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:06:36,775][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:06:38,520][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:06:38,520][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:06:39,958][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:39,959][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:06:39,959][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:40,963][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C09 500Mbps 1x Netflix [27/30]
+[2021-10-19 17:06:40,971][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb09.cathayroute.com:33400
+[2021-10-19 17:06:41,976][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:06:42,984][INFO][4518080000][geo_ip.py:46]Translating jpsb09.cathayroute.com to ipv4.
+[2021-10-19 17:06:42,986][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:44,240][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.200, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:06:44,241][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:06:45,999][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:06:47,994][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:49,224][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.228, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:06:49,225][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:06:51,265][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:06:52,821][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:06:52,837][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:06:53,835][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:53,835][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:06:53,836][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:06:54,838][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C10 500Mbps 1x Netflix [28/30]
+[2021-10-19 17:06:54,849][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb10.cathayroute.com:33400
+[2021-10-19 17:06:55,855][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:06:56,863][INFO][4518080000][geo_ip.py:46]Translating jpsb10.cathayroute.com to ipv4.
+[2021-10-19 17:06:56,865][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:06:58,119][INFO][4518080000][speed_test.py:111]Node inbound IP : 58.241.102.201, Geo : China Nanjing, China Unicom Liaoning
+[2021-10-19 17:06:58,120][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:06:59,810][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:07:01,724][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:07:02,886][INFO][4518080000][speed_test.py:127]Node outbound IP : 103.159.159.229, Geo : Hong Kong Unknown City, Kirin Communication Limited
+[2021-10-19 17:07:02,887][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:07:05,089][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:07:06,555][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:07:06,556][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:07:07,540][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:07:07,541][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:07:07,541][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:07:08,545][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C11 500Mbps 1x Netflix [29/30]
+[2021-10-19 17:07:08,551][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb11.cathayroute.com:33400
+[2021-10-19 17:07:09,556][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:07:10,560][INFO][4518080000][geo_ip.py:46]Translating jpsb11.cathayroute.com to ipv4.
+[2021-10-19 17:07:10,561][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:07:11,829][INFO][4518080000][speed_test.py:111]Node inbound IP : 116.163.10.89, Geo : China Luohu, China Unicom Liaoning
+[2021-10-19 17:07:11,830][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:07:13,803][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:07:16,361][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:07:17,634][INFO][4518080000][speed_test.py:127]Node outbound IP : 45.87.95.104, Geo : Japan Osaka, xTom
+[2021-10-19 17:07:17,634][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:07:20,033][INFO][4518080000][speed_test.py:153]Netflix IP : 126.208.75.182
+[2021-10-19 17:07:21,866][INFO][4518080000][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-19 17:07:21,867][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:07:23,699][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:07:23,700][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:07:23,700][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:07:24,703][INFO][4518080000][speed_test.py:242]Starting test netflix - 🇯🇵 日本 ソフトバンク C12 500Mbps 1x Netflix [30/30]
+[2021-10-19 17:07:24,713][INFO][4518080000][client_shadowsocks.py:36]Starting Shadowsocks-libev with server jpsb12.cathayroute.com:33400
+[2021-10-19 17:07:25,724][INFO][4518080000][speed_test.py:276]Client started.
+[2021-10-19 17:07:26,734][INFO][4518080000][geo_ip.py:46]Translating jpsb12.cathayroute.com to ipv4.
+[2021-10-19 17:07:26,738][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:07:28,219][INFO][4518080000][speed_test.py:111]Node inbound IP : 223.87.193.132, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-19 17:07:28,220][INFO][4518080000][speed_test_methods.py:72]Testing latency to server.
+[2021-10-19 17:07:30,743][INFO][4518080000][speed_test_methods.py:68]Testing latency to google.
+[2021-10-19 17:07:34,210][INFO][4518080000][geo_ip.py:63]Starting Geo IP.
+[2021-10-19 17:07:36,048][INFO][4518080000][speed_test.py:127]Node outbound IP : 54.238.172.226, Geo : Japan Tokyo, Amazon.com
+[2021-10-19 17:07:36,049][INFO][4518080000][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-19 17:07:38,720][INFO][4518080000][speed_test.py:153]Netflix IP : 54.238.172.226
+[2021-10-19 17:07:41,033][INFO][4518080000][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-19 17:07:41,036][INFO][4518080000][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-19 17:07:42,162][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:07:42,163][WARNING][4518080000][speed_test.py:374]Re-testing node.
+[2021-10-19 17:07:42,163][INFO][4518080000][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-19 17:07:43,207][INFO][4518080000][export_result.py:60]Time Used : 00:07:59
+[2021-10-19 17:07:43,208][INFO][4518080000][export_result.py:46]Set colors as origin.
+[2021-10-19 17:07:44,432][INFO][4518080000][export_result.py:263]Result image saved as ./results/2021-10-19-17-07-43.png

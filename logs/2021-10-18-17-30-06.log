@@ -1,0 +1,26 @@
+[2021-10-18 17:30:06,697][INFO][4573240832][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 17:30:06,697][INFO][4573240832][requirements_check.py:73]Checking libsodium.
+[2021-10-18 17:30:09,196][INFO][4573240832][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 17:30:09,197][INFO][4573240832][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 17:30:09,198][INFO][4573240832][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 17:30:09,199][INFO][4573240832][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 17:30:09,199][INFO][4573240832][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2
+[2021-10-18 17:30:12,661][INFO][4573240832][config_parser.py:220]Base64 decode failed.
+[2021-10-18 17:30:13,140][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C01 Netflix
+[2021-10-18 17:30:13,140][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C02 Netflix
+[2021-10-18 17:30:13,140][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C03 Netflix
+[2021-10-18 17:30:13,140][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C04 Netflix
+[2021-10-18 17:30:13,140][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C05 Netflix
+[2021-10-18 17:30:13,141][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C01 Netflix
+[2021-10-18 17:30:13,141][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C02 Netflix
+[2021-10-18 17:30:13,141][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C03 Netflix
+[2021-10-18 17:30:13,141][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C04 Netflix
+[2021-10-18 17:30:13,141][INFO][4573240832][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C05 Netflix
+[2021-10-18 17:30:13,142][INFO][4573240832][config_parser.py:152]netflix - 新加坡高级 IEPL 中继 C01 Netflix
+[2021-10-18 17:30:13,142][INFO][4573240832][config_parser.py:152]netflix - 新加坡高级 IEPL 中继 C02 Netflix
+[2021-10-18 17:30:13,142][INFO][4573240832][config_parser.py:152]netflix - 新加坡高级 IEPL 中继 C03 Netflix
+[2021-10-18 17:30:13,143][INFO][4573240832][ssrspeed_core.py:165]13 node(s) will be test.
+[2021-10-18 17:30:13,143][INFO][4573240832][speed_test.py:421]Test mode : speed and tcp ping.Test method : FAST.
+[2021-10-18 17:30:13,144][INFO][4573240832][speed_test.py:242]Starting test netflix - 新加坡 Legacy Magic IEPL 中继 C01 Netflix [1/13]
+[2021-10-18 17:30:13,148][INFO][4573240832][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp01.cathayroute.com:33400
+[2021-10-18 17:30:14,155][INFO][4573240832][speed_test.py:276]Client started.

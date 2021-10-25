@@ -1,0 +1,364 @@
+[2021-10-18 16:22:01,518][INFO][4554911232][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 16:22:01,518][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:01,518][INFO][4554911232][requirements_check.py:73]Checking libsodium.
+[2021-10-18 16:22:01,519][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:05,225][INFO][4554911232][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 16:22:05,226][INFO][4554911232][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 16:22:05,227][INFO][4554911232][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 16:22:05,227][INFO][4554911232][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 16:22:05,228][INFO][4554911232][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2
+[2021-10-18 16:22:08,408][INFO][4554911232][config_parser.py:220]Base64 decode failed.
+[2021-10-18 16:22:08,880][WARNING][4554911232][node_filters.py:37]🔰国外流量 - 1 官网: https://管人痴.com (127.0.0.1:33400) already in list.
+[2021-10-18 16:22:08,921][WARNING][4554911232][node_filters.py:37]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） H 1000Mbps (hr07.cathayroute.com:33400) already in list.
+[2021-10-18 16:22:09,084][WARNING][4554911232][node_filters.py:37]🔰国外流量 - 本站无Ins推广渠道 Ins推广渠道均为二手倒卖 (127.0.0.1:33400) already in list.
+[2021-10-18 16:22:09,084][WARNING][4554911232][node_filters.py:37]🔰国外流量 - 本站无QQ购买渠道 QQ卖家购买均为二手倒卖 (127.0.0.1:33400) already in list.
+[2021-10-18 16:22:09,084][WARNING][4554911232][node_filters.py:37]🔰国外流量 - 本站无微信购买渠道 微信购买均为二手倒卖 (127.0.0.1:33400) already in list.
+[2021-10-18 16:22:09,135][WARNING][4554911232][node_filters.py:37]🔰国外流量 - 精简 30 (30.secureencryptedvirtualization.com:33400) already in list.
+[2021-10-18 16:22:10,103][INFO][4554911232][config_parser.py:152]🔰国外流量 - 1 加入用户群: https://t.me/joinchat/j_AxEbSzcX85NWI1
+[2021-10-18 16:22:10,103][INFO][4554911232][config_parser.py:152]🔰国外流量 - ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC C01
+[2021-10-18 16:22:10,103][INFO][4554911232][config_parser.py:152]🔰国外流量 - IPV6 俄罗斯 C01
+[2021-10-18 16:22:10,103][INFO][4554911232][config_parser.py:152]🔰国外流量 - IPV6 加拿大 C01
+[2021-10-18 16:22:10,104][INFO][4554911232][config_parser.py:152]🔰国外流量 - IPV6 日本 C01
+[2021-10-18 16:22:10,104][INFO][4554911232][config_parser.py:152]🔰国外流量 - IPV6 法国 C01
+[2021-10-18 16:22:10,104][INFO][4554911232][config_parser.py:152]🔰国外流量 - IPV6 澳大利亚 C01
+[2021-10-18 16:22:10,105][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C01
+[2021-10-18 16:22:10,105][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C02
+[2021-10-18 16:22:10,105][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C03
+[2021-10-18 16:22:10,105][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C04
+[2021-10-18 16:22:10,105][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C05
+[2021-10-18 16:22:10,105][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C01
+[2021-10-18 16:22:10,106][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C02
+[2021-10-18 16:22:10,106][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C03
+[2021-10-18 16:22:10,106][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C04
+[2021-10-18 16:22:10,106][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C05
+[2021-10-18 16:22:10,106][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C06
+[2021-10-18 16:22:10,107][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C07
+[2021-10-18 16:22:10,107][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C08
+[2021-10-18 16:22:10,107][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C09
+[2021-10-18 16:22:10,107][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C01 Netflix 动画疯
+[2021-10-18 16:22:10,107][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C02 Netflix 动画疯
+[2021-10-18 16:22:10,108][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C03 Netflix 动画疯
+[2021-10-18 16:22:10,108][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C04 Netflix 动画疯
+[2021-10-18 16:22:10,108][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C05 Netflix 动画疯
+[2021-10-18 16:22:10,108][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C06 Netflix 动画疯
+[2021-10-18 16:22:10,108][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C07 Netflix 动画疯
+[2021-10-18 16:22:10,108][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C08 Netflix 动画疯
+[2021-10-18 16:22:10,109][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C09 Netflix 动画疯
+[2021-10-18 16:22:10,109][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C10 Netflix 动画疯
+[2021-10-18 16:22:10,109][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C01 Netflix 动画疯
+[2021-10-18 16:22:10,109][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C02 Netflix 动画疯
+[2021-10-18 16:22:10,109][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C03 Netflix 动画疯
+[2021-10-18 16:22:10,109][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C04 Netflix 动画疯
+[2021-10-18 16:22:10,110][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C05 Netflix 动画疯
+[2021-10-18 16:22:10,110][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C06 Netflix 动画疯
+[2021-10-18 16:22:10,110][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C07 Netflix 动画疯
+[2021-10-18 16:22:10,110][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C08 Netflix 动画疯
+[2021-10-18 16:22:10,110][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C09 Netflix 动画疯
+[2021-10-18 16:22:10,110][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C10 Netflix 动画疯
+[2021-10-18 16:22:10,111][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C01 Netflix 动画疯
+[2021-10-18 16:22:10,111][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C02 Netflix 动画疯
+[2021-10-18 16:22:10,111][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C03 Netflix 动画疯
+[2021-10-18 16:22:10,112][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C04 Netflix 动画疯
+[2021-10-18 16:22:10,113][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C05 Netflix 动画疯
+[2021-10-18 16:22:10,114][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C06 Netflix 动画疯
+[2021-10-18 16:22:10,115][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C07 Netflix 动画疯
+[2021-10-18 16:22:10,115][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C08 Netflix 动画疯
+[2021-10-18 16:22:10,116][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C09 Netflix 动画疯
+[2021-10-18 16:22:10,117][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C10 Netflix 动画疯
+[2021-10-18 16:22:10,117][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C11 Netflix 动画疯
+[2021-10-18 16:22:10,118][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） A 1000Mbps
+[2021-10-18 16:22:10,118][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） B 1000Mbps
+[2021-10-18 16:22:10,119][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） C 1000Mbps
+[2021-10-18 16:22:10,119][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） D 1000Mbps
+[2021-10-18 16:22:10,119][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） E 1000Mbps
+[2021-10-18 16:22:10,120][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） F 1000Mbps
+[2021-10-18 16:22:10,120][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） G 1000Mbps
+[2021-10-18 16:22:10,121][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） I 1000Mbps
+[2021-10-18 16:22:10,121][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） J 1000Mbps
+[2021-10-18 16:22:10,121][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C01 Netflix
+[2021-10-18 16:22:10,122][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C02 Netflix
+[2021-10-18 16:22:10,122][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C03 Netflix
+[2021-10-18 16:22:10,123][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C04 Netflix
+[2021-10-18 16:22:10,123][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C05 Netflix
+[2021-10-18 16:22:10,124][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C06 Netflix
+[2021-10-18 16:22:10,124][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C07 Netflix
+[2021-10-18 16:22:10,125][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C08 Netflix
+[2021-10-18 16:22:10,125][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C01
+[2021-10-18 16:22:10,125][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C02
+[2021-10-18 16:22:10,126][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C03
+[2021-10-18 16:22:10,126][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C04
+[2021-10-18 16:22:10,126][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C05
+[2021-10-18 16:22:10,127][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C01
+[2021-10-18 16:22:10,127][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C02
+[2021-10-18 16:22:10,127][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C03
+[2021-10-18 16:22:10,128][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C04
+[2021-10-18 16:22:10,128][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C05
+[2021-10-18 16:22:10,128][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C01
+[2021-10-18 16:22:10,128][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C02
+[2021-10-18 16:22:10,128][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C03
+[2021-10-18 16:22:10,129][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C04
+[2021-10-18 16:22:10,129][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C05
+[2021-10-18 16:22:10,129][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C01
+[2021-10-18 16:22:10,129][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C02
+[2021-10-18 16:22:10,129][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C03
+[2021-10-18 16:22:10,130][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C04
+[2021-10-18 16:22:10,130][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C05
+[2021-10-18 16:22:10,130][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C06
+[2021-10-18 16:22:10,130][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）A 1Gbps
+[2021-10-18 16:22:10,130][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）B 1Gbps
+[2021-10-18 16:22:10,131][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）C 1Gbps
+[2021-10-18 16:22:10,131][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）D 1Gbps
+[2021-10-18 16:22:10,131][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）E 1Gbps
+[2021-10-18 16:22:10,132][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 01 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,134][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 02 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,135][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 03 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,135][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 04 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,136][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 05 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,136][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 06 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,137][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 07 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,137][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 08 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,138][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 09 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,138][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 10 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,139][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 01 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,139][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 02 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,140][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 03 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,140][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 04 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,140][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 05 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,141][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 06 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,141][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 07 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,142][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 08 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,142][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 09 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,142][INFO][4554911232][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 10 1Gbps Netflix HBO TVB
+[2021-10-18 16:22:10,143][INFO][4554911232][config_parser.py:152]🔰国外流量 - 因V2ray重大漏洞问题，暂时下架全部V2节点。请使用ssr/ss连接方式进行使用。
+[2021-10-18 16:22:10,143][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C01 Netflix
+[2021-10-18 16:22:10,143][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C02 Netflix
+[2021-10-18 16:22:10,144][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C03 Netflix
+[2021-10-18 16:22:10,144][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C04 Netflix
+[2021-10-18 16:22:10,144][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C05 Netflix
+[2021-10-18 16:22:10,145][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C01 Netflix
+[2021-10-18 16:22:10,145][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C02 Netflix
+[2021-10-18 16:22:10,145][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C03 Netflix
+[2021-10-18 16:22:10,146][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C04 Netflix
+[2021-10-18 16:22:10,146][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C05 Netflix
+[2021-10-18 16:22:10,147][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡高级 IEPL 中继 C01 Netflix
+[2021-10-18 16:22:10,147][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡高级 IEPL 中继 C02 Netflix
+[2021-10-18 16:22:10,148][INFO][4554911232][config_parser.py:152]🔰国外流量 - 新加坡高级 IEPL 中继 C03 Netflix
+[2021-10-18 16:22:10,148][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C01 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,149][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C02 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,149][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C03 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,150][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C04 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,150][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C05 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,151][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C06 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,151][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C07 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,151][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C08 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,152][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C09 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,152][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C10 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,152][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C11 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,153][INFO][4554911232][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C12 500Mbps 1倍 Netflix
+[2021-10-18 16:22:10,153][INFO][4554911232][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C01
+[2021-10-18 16:22:10,153][INFO][4554911232][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C02
+[2021-10-18 16:22:10,154][INFO][4554911232][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C03
+[2021-10-18 16:22:10,154][INFO][4554911232][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C04
+[2021-10-18 16:22:10,154][INFO][4554911232][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C05
+[2021-10-18 16:22:10,154][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 21
+[2021-10-18 16:22:10,155][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 22
+[2021-10-18 16:22:10,155][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 23
+[2021-10-18 16:22:10,155][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 24
+[2021-10-18 16:22:10,155][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 25
+[2021-10-18 16:22:10,156][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 26
+[2021-10-18 16:22:10,156][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 27
+[2021-10-18 16:22:10,156][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 28
+[2021-10-18 16:22:10,157][INFO][4554911232][config_parser.py:152]🔰国外流量 - 精简 29
+[2021-10-18 16:22:10,157][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C01
+[2021-10-18 16:22:10,157][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C02
+[2021-10-18 16:22:10,158][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C03
+[2021-10-18 16:22:10,158][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C04
+[2021-10-18 16:22:10,159][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C05
+[2021-10-18 16:22:10,159][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C01
+[2021-10-18 16:22:10,160][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C02
+[2021-10-18 16:22:10,160][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C03
+[2021-10-18 16:22:10,161][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C04
+[2021-10-18 16:22:10,161][INFO][4554911232][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C05
+[2021-10-18 16:22:10,161][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 01
+[2021-10-18 16:22:10,162][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 02
+[2021-10-18 16:22:10,162][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 03
+[2021-10-18 16:22:10,162][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 04
+[2021-10-18 16:22:10,163][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 05
+[2021-10-18 16:22:10,163][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 01
+[2021-10-18 16:22:10,163][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 02
+[2021-10-18 16:22:10,163][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 03
+[2021-10-18 16:22:10,164][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 04
+[2021-10-18 16:22:10,164][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 05
+[2021-10-18 16:22:10,165][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 06
+[2021-10-18 16:22:10,165][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 07
+[2021-10-18 16:22:10,166][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 08
+[2021-10-18 16:22:10,167][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 09
+[2021-10-18 16:22:10,168][INFO][4554911232][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 10
+[2021-10-18 16:22:10,168][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C01
+[2021-10-18 16:22:10,168][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C02
+[2021-10-18 16:22:10,169][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C03
+[2021-10-18 16:22:10,169][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C04
+[2021-10-18 16:22:10,169][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C06
+[2021-10-18 16:22:10,169][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C07
+[2021-10-18 16:22:10,170][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C08
+[2021-10-18 16:22:10,170][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C09
+[2021-10-18 16:22:10,170][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C01
+[2021-10-18 16:22:10,170][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C02
+[2021-10-18 16:22:10,171][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C03
+[2021-10-18 16:22:10,172][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C04
+[2021-10-18 16:22:10,172][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C05
+[2021-10-18 16:22:10,173][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C06
+[2021-10-18 16:22:10,173][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C07
+[2021-10-18 16:22:10,174][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C08
+[2021-10-18 16:22:10,175][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C09
+[2021-10-18 16:22:10,175][INFO][4554911232][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C10
+[2021-10-18 16:22:10,187][INFO][4554911232][ssrspeed_core.py:165]198 node(s) will be test.
+[2021-10-18 16:22:10,195][INFO][4554911232][speed_test.py:421]Test mode : speed and tcp ping.Test method : FAST.
+[2021-10-18 16:22:10,195][INFO][4554911232][speed_test.py:242]Starting test 🔰国外流量 - 1 加入用户群: https://t.me/joinchat/j_AxEbSzcX85NWI1 [1/198]
+[2021-10-18 16:22:10,195][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:10,196][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:10,197][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:10,197][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:10,201][INFO][4554911232][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 127.0.0.1:33400
+[2021-10-18 16:22:11,207][INFO][4554911232][speed_test.py:276]Client started.
+[2021-10-18 16:22:12,213][INFO][4554911232][geo_ip.py:46]Translating 127.0.0.1 to ipv4.
+[2021-10-18 16:22:12,215][INFO][4554911232][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:22:12,234][ERROR][4554911232][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/127.0.0.1 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/127.0.0.1 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:22:12,246][INFO][4554911232][speed_test.py:111]Node inbound IP : 127.0.0.1, Geo : N/A Unknown City, N/A
+[2021-10-18 16:22:12,246][INFO][4554911232][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:22:12,248][ERROR][4554911232][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+ConnectionRefusedError: [Errno 61] Connection refused
+[2021-10-18 16:22:12,252][ERROR][4554911232][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+ConnectionRefusedError: [Errno 61] Connection refused
+[2021-10-18 16:22:12,254][ERROR][4554911232][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+ConnectionRefusedError: [Errno 61] Connection refused
+[2021-10-18 16:22:13,258][INFO][4554911232][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:22:13,280][ERROR][4554911232][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:22:13,286][INFO][4554911232][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:22:13,287][INFO][4554911232][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:22:13,304][ERROR][4554911232][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:22:13,305][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:13,305][INFO][4554911232][base_client.py:51]Client terminated.
+[2021-10-18 16:22:14,309][INFO][4554911232][speed_test.py:242]Starting test 🔰国外流量 - ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC C01 [2/198]
+[2021-10-18 16:22:14,309][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:14,311][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:14,312][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:14,312][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:14,320][INFO][4554911232][client_shadowsocks.py:36]Starting Shadowsocks-libev with server pvcc01.cathayroute.com:33400
+[2021-10-18 16:22:15,326][INFO][4554911232][speed_test.py:276]Client started.
+[2021-10-18 16:22:16,332][INFO][4554911232][geo_ip.py:46]Translating pvcc01.cathayroute.com to ipv4.
+[2021-10-18 16:22:16,334][INFO][4554911232][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:22:17,584][INFO][4554911232][speed_test.py:111]Node inbound IP : 162.14.11.142, Geo : United States Unknown City, Tencent cloud computing
+[2021-10-18 16:22:17,584][INFO][4554911232][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:22:19,075][INFO][4554911232][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:22:20,471][INFO][4554911232][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:22:21,993][INFO][4554911232][speed_test.py:127]Node outbound IP : 210.0.159.46, Geo : Hong Kong Central, HGC Broadband
+[2021-10-18 16:22:21,993][INFO][4554911232][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:22:24,349][INFO][4554911232][speed_test.py:153]Netflix IP : 210.0.159.46
+[2021-10-18 16:22:25,627][INFO][4554911232][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:22:25,628][INFO][4554911232][base_client.py:51]Client terminated.

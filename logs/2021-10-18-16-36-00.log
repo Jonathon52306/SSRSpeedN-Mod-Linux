@@ -1,0 +1,791 @@
+[2021-10-18 16:36:00,144][INFO][4466400768][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 16:36:00,145][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:00,145][INFO][4466400768][requirements_check.py:73]Checking libsodium.
+[2021-10-18 16:36:00,145][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:02,523][INFO][4466400768][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 16:36:02,523][INFO][4466400768][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 16:36:02,525][INFO][4466400768][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 16:36:02,526][INFO][4466400768][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 16:36:02,526][INFO][4466400768][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2
+[2021-10-18 16:36:04,101][INFO][4466400768][config_parser.py:220]Base64 decode failed.
+[2021-10-18 16:36:04,734][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C01 Netflix 动画疯
+[2021-10-18 16:36:04,734][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C02 Netflix 动画疯
+[2021-10-18 16:36:04,735][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C03 Netflix 动画疯
+[2021-10-18 16:36:04,735][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C04 Netflix 动画疯
+[2021-10-18 16:36:04,735][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C05 Netflix 动画疯
+[2021-10-18 16:36:04,736][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C06 Netflix 动画疯
+[2021-10-18 16:36:04,736][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C07 Netflix 动画疯
+[2021-10-18 16:36:04,736][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C08 Netflix 动画疯
+[2021-10-18 16:36:04,737][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C09 Netflix 动画疯
+[2021-10-18 16:36:04,737][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾 VPDN 嘉义游戏专线 C10 Netflix 动画疯
+[2021-10-18 16:36:04,737][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C01 Netflix 动画疯
+[2021-10-18 16:36:04,737][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C02 Netflix 动画疯
+[2021-10-18 16:36:04,737][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C03 Netflix 动画疯
+[2021-10-18 16:36:04,738][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C04 Netflix 动画疯
+[2021-10-18 16:36:04,738][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C05 Netflix 动画疯
+[2021-10-18 16:36:04,738][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C06 Netflix 动画疯
+[2021-10-18 16:36:04,738][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C07 Netflix 动画疯
+[2021-10-18 16:36:04,739][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C08 Netflix 动画疯
+[2021-10-18 16:36:04,739][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C09 Netflix 动画疯
+[2021-10-18 16:36:04,739][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾彰化 IEPL HiNet固接 C10 Netflix 动画疯
+[2021-10-18 16:36:04,739][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C01 Netflix 动画疯
+[2021-10-18 16:36:04,740][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C02 Netflix 动画疯
+[2021-10-18 16:36:04,740][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C03 Netflix 动画疯
+[2021-10-18 16:36:04,740][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C04 Netflix 动画疯
+[2021-10-18 16:36:04,741][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C05 Netflix 动画疯
+[2021-10-18 16:36:04,741][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C06 Netflix 动画疯
+[2021-10-18 16:36:04,741][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C07 Netflix 动画疯
+[2021-10-18 16:36:04,742][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C08 Netflix 动画疯
+[2021-10-18 16:36:04,742][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C09 Netflix 动画疯
+[2021-10-18 16:36:04,742][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C10 Netflix 动画疯
+[2021-10-18 16:36:04,742][INFO][4466400768][config_parser.py:152]netflix - 中国-台湾桃园 IPLC 台湾固网 C11 Netflix 动画疯
+[2021-10-18 16:36:04,744][INFO][4466400768][ssrspeed_core.py:165]31 node(s) will be test.
+[2021-10-18 16:36:04,745][INFO][4466400768][speed_test.py:421]Test mode : speed and tcp ping.Test method : FAST.
+[2021-10-18 16:36:04,746][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C01 Netflix 动画疯 [1/31]
+[2021-10-18 16:36:04,746][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:04,748][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:04,748][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:04,748][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:04,754][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame01.cathayroute.com:33400
+[2021-10-18 16:36:05,759][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:36:06,763][INFO][4466400768][geo_ip.py:46]Translating twgame01.cathayroute.com to ipv4.
+[2021-10-18 16:36:06,767][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:08,090][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:36:08,090][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:36:09,946][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:36:12,212][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:13,569][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:36:13,569][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:36:16,415][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:36:17,627][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:36:17,627][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:36:18,840][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:36:18,840][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:36:18,841][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:36:18,841][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C01 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [84.00] - Google Loss: [0.00%] - Google Ping: [226.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:28945
+[2021-10-18 16:36:18,842][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:18,842][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:36:19,848][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C02 Netflix 动画疯 [2/31]
+[2021-10-18 16:36:19,848][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:19,850][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:19,850][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:19,851][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:19,859][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame02.cathayroute.com:33400
+[2021-10-18 16:36:20,866][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:36:21,871][INFO][4466400768][geo_ip.py:46]Translating twgame02.cathayroute.com to ipv4.
+[2021-10-18 16:36:21,873][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:23,251][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:36:23,252][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:36:25,067][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:36:26,713][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:28,073][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:36:28,073][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:36:30,338][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:36:31,442][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:36:31,443][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:36:32,664][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:36:32,664][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:36:32,664][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:36:32,665][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C02 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [80.00] - Google Loss: [0.00%] - Google Ping: [164.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:57893
+[2021-10-18 16:36:32,665][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:32,666][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:36:33,670][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C03 Netflix 动画疯 [3/31]
+[2021-10-18 16:36:33,671][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:33,672][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:33,673][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:33,673][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:33,681][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame03.cathayroute.com:33400
+[2021-10-18 16:36:34,686][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:36:35,692][INFO][4466400768][geo_ip.py:46]Translating twgame03.cathayroute.com to ipv4.
+[2021-10-18 16:36:35,693][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:37,086][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:36:37,087][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:36:38,902][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:36:40,804][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:42,101][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:36:42,102][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:36:44,540][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:36:45,677][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:36:45,677][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:36:47,216][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:36:47,216][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:36:47,217][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:36:47,218][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C03 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [80.00] - Google Loss: [0.00%] - Google Ping: [189.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:52351
+[2021-10-18 16:36:47,218][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:47,219][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:36:48,224][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C04 Netflix 动画疯 [4/31]
+[2021-10-18 16:36:48,224][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:48,225][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:48,225][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:48,225][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:36:48,228][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame04.cathayroute.com:33400
+[2021-10-18 16:36:49,233][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:36:50,239][INFO][4466400768][geo_ip.py:46]Translating twgame04.cathayroute.com to ipv4.
+[2021-10-18 16:36:50,242][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:51,611][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:36:51,611][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:36:53,354][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:36:55,074][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:36:56,395][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:36:56,396][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:36:58,965][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:37:00,013][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:37:00,014][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:37:02,200][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:02,201][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:37:02,201][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:02,201][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C04 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [73.00] - Google Loss: [0.00%] - Google Ping: [171.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:21446
+[2021-10-18 16:37:02,202][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:02,202][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:37:03,207][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C05 Netflix 动画疯 [5/31]
+[2021-10-18 16:37:03,207][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:03,209][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:03,210][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:03,210][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:03,218][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame05.cathayroute.com:33400
+[2021-10-18 16:37:04,223][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:37:05,233][INFO][4466400768][geo_ip.py:46]Translating twgame05.cathayroute.com to ipv4.
+[2021-10-18 16:37:05,235][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:06,571][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:37:06,571][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:37:08,465][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:37:10,406][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:11,685][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:37:11,686][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:37:14,178][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:37:15,374][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:37:15,375][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:37:16,769][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:16,770][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:37:16,770][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:16,771][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C05 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [88.00] - Google Loss: [0.00%] - Google Ping: [193.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:46747
+[2021-10-18 16:37:16,771][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:16,771][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:37:17,775][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C06 Netflix 动画疯 [6/31]
+[2021-10-18 16:37:17,783][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:17,784][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:17,785][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:17,785][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:17,789][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame06.cathayroute.com:33400
+[2021-10-18 16:37:18,795][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:37:19,802][INFO][4466400768][geo_ip.py:46]Translating twgame06.cathayroute.com to ipv4.
+[2021-10-18 16:37:19,804][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:21,083][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:37:21,084][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:37:22,880][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:37:24,594][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:25,905][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:37:25,905][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:37:28,273][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:37:29,403][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:37:29,404][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:37:30,575][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:30,575][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:37:30,576][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:30,576][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C06 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [79.00] - Google Loss: [0.00%] - Google Ping: [171.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:49474
+[2021-10-18 16:37:30,577][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:30,577][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:37:31,580][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C07 Netflix 动画疯 [7/31]
+[2021-10-18 16:37:31,581][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:31,581][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:31,581][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:31,582][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:31,585][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame07.cathayroute.com:33400
+[2021-10-18 16:37:32,589][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:37:33,594][INFO][4466400768][geo_ip.py:46]Translating twgame07.cathayroute.com to ipv4.
+[2021-10-18 16:37:33,596][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:34,813][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:37:34,814][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:37:36,658][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:37:38,522][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:39,818][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:37:39,819][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:37:42,357][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:37:43,505][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:37:43,505][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:37:44,754][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:44,755][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:37:44,755][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:44,756][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C07 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [83.00] - Google Loss: [0.00%] - Google Ping: [185.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:15528
+[2021-10-18 16:37:44,756][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:44,757][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:37:45,761][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C08 Netflix 动画疯 [8/31]
+[2021-10-18 16:37:45,762][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:45,763][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:45,764][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:45,764][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:45,771][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame08.cathayroute.com:33400
+[2021-10-18 16:37:46,779][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:37:47,788][INFO][4466400768][geo_ip.py:46]Translating twgame08.cathayroute.com to ipv4.
+[2021-10-18 16:37:47,791][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:49,074][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:37:49,074][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:37:50,833][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:37:52,974][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:37:54,290][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:37:54,290][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:37:56,620][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:37:57,770][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:37:57,770][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:37:58,945][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:58,946][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:37:58,946][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:37:58,947][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C08 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [75.00] - Google Loss: [0.00%] - Google Ping: [213.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:62287
+[2021-10-18 16:37:58,947][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:58,948][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:37:59,954][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C09 Netflix 动画疯 [9/31]
+[2021-10-18 16:37:59,955][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:59,957][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:59,958][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:59,958][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:37:59,967][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame09.cathayroute.com:33400
+[2021-10-18 16:38:00,971][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:38:01,975][INFO][4466400768][geo_ip.py:46]Translating twgame09.cathayroute.com to ipv4.
+[2021-10-18 16:38:01,976][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:03,613][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:38:03,614][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:38:05,419][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:38:07,190][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:08,519][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:38:08,519][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:38:11,425][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:38:12,629][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:38:12,630][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:38:13,540][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:38:13,540][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:38:13,540][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:38:13,540][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C09 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [80.00] - Google Loss: [0.00%] - Google Ping: [176.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:10142
+[2021-10-18 16:38:13,541][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:13,541][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:38:14,545][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾 VPDN 嘉义游戏专线 C10 Netflix 动画疯 [10/31]
+[2021-10-18 16:38:14,563][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:14,564][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:14,565][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:14,565][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:14,572][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twgame10.cathayroute.com:33400
+[2021-10-18 16:38:15,574][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:38:16,582][INFO][4466400768][geo_ip.py:46]Translating twgame10.cathayroute.com to ipv4.
+[2021-10-18 16:38:16,583][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:17,802][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:38:17,802][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:38:19,590][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:38:21,414][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:22,627][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:38:22,627][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:38:25,021][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:38:26,412][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:38:26,413][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:38:27,732][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:38:27,733][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:38:27,733][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:38:27,733][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾 VPDN 嘉义游戏专线 C10 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [78.00] - Google Loss: [0.00%] - Google Ping: [181.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:21920
+[2021-10-18 16:38:27,734][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:27,734][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:38:28,737][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C01 Netflix 动画疯 [11/31]
+[2021-10-18 16:38:28,738][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:28,738][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:28,739][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:28,739][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:28,743][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw01.cathayroute.com:33400
+[2021-10-18 16:38:29,747][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:38:30,751][INFO][4466400768][geo_ip.py:46]Translating tw01.cathayroute.com to ipv4.
+[2021-10-18 16:38:30,752][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:32,068][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:38:32,068][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:38:33,909][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:38:36,556][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:38,014][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:38:38,014][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:38:40,430][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:38:41,639][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:38:41,639][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:38:43,539][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:38:43,540][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:38:43,541][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:38:43,541][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C01 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [83.00] - Google Loss: [0.00%] - Google Ping: [264.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:15500
+[2021-10-18 16:38:43,542][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:43,542][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:38:44,546][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C02 Netflix 动画疯 [12/31]
+[2021-10-18 16:38:44,547][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:44,548][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:44,549][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:44,549][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:38:44,557][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw02.cathayroute.com:33400
+[2021-10-18 16:38:45,563][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:38:46,570][INFO][4466400768][geo_ip.py:46]Translating tw02.cathayroute.com to ipv4.
+[2021-10-18 16:38:46,572][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:48,055][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:38:48,056][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:38:49,894][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:38:52,568][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:38:54,063][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:38:54,063][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:38:56,640][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:38:57,884][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:38:57,884][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:39:00,036][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:00,036][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:39:00,037][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:00,037][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C02 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [83.00] - Google Loss: [0.00%] - Google Ping: [266.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:25837
+[2021-10-18 16:39:00,037][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:00,038][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:39:01,044][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C03 Netflix 动画疯 [13/31]
+[2021-10-18 16:39:01,045][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:01,047][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:01,047][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:01,048][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:01,055][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw03.cathayroute.com:33400
+[2021-10-18 16:39:02,061][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:39:03,070][INFO][4466400768][geo_ip.py:46]Translating tw03.cathayroute.com to ipv4.
+[2021-10-18 16:39:03,072][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:04,432][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:39:04,432][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:39:06,275][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:39:08,357][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:10,376][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:39:10,376][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:39:12,830][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:39:14,165][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:39:14,166][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:39:15,382][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:15,383][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:39:15,383][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:15,383][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C03 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [84.00] - Google Loss: [0.00%] - Google Ping: [207.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:16170
+[2021-10-18 16:39:15,384][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:15,384][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:39:16,385][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C04 Netflix 动画疯 [14/31]
+[2021-10-18 16:39:16,386][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:16,387][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:16,388][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:16,389][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:16,397][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw04.cathayroute.com:33400
+[2021-10-18 16:39:17,403][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:39:18,407][INFO][4466400768][geo_ip.py:46]Translating tw04.cathayroute.com to ipv4.
+[2021-10-18 16:39:18,408][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:19,723][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:39:19,724][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:39:21,493][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:39:23,680][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:25,027][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:39:25,028][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:39:27,548][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:39:28,810][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:39:28,811][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:39:30,038][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:30,039][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:39:30,039][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:30,039][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C04 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [76.00] - Google Loss: [0.00%] - Google Ping: [218.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:52800
+[2021-10-18 16:39:30,039][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:30,039][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:39:31,043][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C05 Netflix 动画疯 [15/31]
+[2021-10-18 16:39:31,044][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:31,045][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:31,046][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:31,046][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:31,054][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw05.cathayroute.com:33400
+[2021-10-18 16:39:32,061][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:39:33,070][INFO][4466400768][geo_ip.py:46]Translating tw05.cathayroute.com to ipv4.
+[2021-10-18 16:39:33,073][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:34,439][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:39:34,440][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:39:36,245][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:39:38,736][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:40,082][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:39:40,082][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:39:42,837][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:39:43,979][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:39:43,980][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:39:45,495][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:45,496][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:39:45,496][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:45,496][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C05 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [80.00] - Google Loss: [0.00%] - Google Ping: [248.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:40027
+[2021-10-18 16:39:45,496][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:45,496][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:39:46,500][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C06 Netflix 动画疯 [16/31]
+[2021-10-18 16:39:46,501][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:46,501][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:46,502][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:46,502][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:46,506][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw06.cathayroute.com:33400
+[2021-10-18 16:39:47,512][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:39:48,522][INFO][4466400768][geo_ip.py:46]Translating tw06.cathayroute.com to ipv4.
+[2021-10-18 16:39:48,525][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:49,876][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:39:49,877][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:39:51,634][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:39:53,689][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:39:55,086][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:39:55,086][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:39:57,479][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:39:58,981][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:39:58,982][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:39:59,766][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:59,766][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:39:59,766][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:39:59,766][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C06 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [75.00] - Google Loss: [0.00%] - Google Ping: [205.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:31616
+[2021-10-18 16:39:59,766][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:39:59,767][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:40:00,770][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C07 Netflix 动画疯 [17/31]
+[2021-10-18 16:40:00,770][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:00,771][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:00,771][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:00,771][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:00,776][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw07.cathayroute.com:33400
+[2021-10-18 16:40:01,782][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:40:02,786][INFO][4466400768][geo_ip.py:46]Translating tw07.cathayroute.com to ipv4.
+[2021-10-18 16:40:02,788][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:04,137][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:40:04,138][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:40:06,091][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:40:07,921][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:09,291][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:40:09,291][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:40:11,664][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:40:12,735][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:40:12,735][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:40:13,959][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:13,959][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:40:13,959][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:13,959][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C07 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [95.00] - Google Loss: [0.00%] - Google Ping: [182.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:62265
+[2021-10-18 16:40:13,959][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:13,960][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:40:14,964][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C08 Netflix 动画疯 [18/31]
+[2021-10-18 16:40:14,964][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:14,965][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:14,966][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:14,966][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:14,973][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw08.cathayroute.com:33400
+[2021-10-18 16:40:15,980][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:40:16,987][INFO][4466400768][geo_ip.py:46]Translating tw08.cathayroute.com to ipv4.
+[2021-10-18 16:40:16,990][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:18,368][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:40:18,369][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:40:20,098][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:40:21,864][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:23,167][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:40:23,168][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:40:25,958][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:40:27,273][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:40:27,274][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:40:28,107][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:28,107][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:40:28,107][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:28,108][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C08 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [72.00] - Google Loss: [0.00%] - Google Ping: [176.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:45931
+[2021-10-18 16:40:28,108][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:28,108][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:40:29,111][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C09 Netflix 动画疯 [19/31]
+[2021-10-18 16:40:29,111][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:29,113][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:29,114][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:29,114][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:29,123][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw09.cathayroute.com:33400
+[2021-10-18 16:40:30,131][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:40:31,141][INFO][4466400768][geo_ip.py:46]Translating tw09.cathayroute.com to ipv4.
+[2021-10-18 16:40:31,143][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:32,464][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:40:32,465][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:40:34,328][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:40:36,312][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:37,725][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:40:37,725][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:40:40,009][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:40:41,231][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:40:41,232][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:40:42,128][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:42,128][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:40:42,129][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:42,129][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C09 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [85.00] - Google Loss: [0.00%] - Google Ping: [197.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:15969
+[2021-10-18 16:40:42,130][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:42,131][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:40:43,136][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾彰化 IEPL HiNet固接 C10 Netflix 动画疯 [20/31]
+[2021-10-18 16:40:43,137][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:43,139][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:43,139][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:43,140][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:43,149][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server tw10.cathayroute.com:33400
+[2021-10-18 16:40:44,156][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:40:45,161][INFO][4466400768][geo_ip.py:46]Translating tw10.cathayroute.com to ipv4.
+[2021-10-18 16:40:45,181][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:46,487][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:40:46,488][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:40:48,841][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:40:50,737][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:40:51,984][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:40:51,984][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:40:54,197][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:40:55,349][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:40:55,350][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:40:56,714][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:56,714][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:40:56,715][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:40:56,715][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾彰化 IEPL HiNet固接 C10 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [134.00] - Google Loss: [0.00%] - Google Ping: [188.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:21031
+[2021-10-18 16:40:56,715][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:56,715][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:40:57,720][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C01 Netflix 动画疯 [21/31]
+[2021-10-18 16:40:57,720][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:57,721][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:57,721][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:57,722][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:40:57,726][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct01.cathayroute.com:33400
+[2021-10-18 16:40:58,732][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:40:59,739][INFO][4466400768][geo_ip.py:46]Translating twct01.cathayroute.com to ipv4.
+[2021-10-18 16:40:59,742][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:01,087][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:41:01,087][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:41:03,205][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:41:05,275][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:06,609][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:41:06,610][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:41:09,038][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:41:10,196][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:41:10,196][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:41:12,030][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:12,030][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:41:12,030][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:12,031][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C01 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [111.00] - Google Loss: [0.00%] - Google Ping: [206.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:13827
+[2021-10-18 16:41:12,031][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:12,031][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:41:13,035][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C02 Netflix 动画疯 [22/31]
+[2021-10-18 16:41:13,035][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:13,036][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:13,037][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:13,038][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:13,045][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct02.cathayroute.com:33400
+[2021-10-18 16:41:14,051][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:41:15,058][INFO][4466400768][geo_ip.py:46]Translating twct02.cathayroute.com to ipv4.
+[2021-10-18 16:41:15,059][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:16,512][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:41:16,513][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:41:18,371][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:41:20,559][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:21,875][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:41:21,875][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:41:24,341][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:41:25,571][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:41:25,572][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:41:27,229][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:27,230][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:41:27,231][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:27,231][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C02 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [85.00] - Google Loss: [0.00%] - Google Ping: [218.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:35386
+[2021-10-18 16:41:27,231][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:27,232][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:41:28,237][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C03 Netflix 动画疯 [23/31]
+[2021-10-18 16:41:28,238][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:28,239][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:28,239][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:28,240][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:28,247][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct03.cathayroute.com:33400
+[2021-10-18 16:41:29,251][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:41:30,255][INFO][4466400768][geo_ip.py:46]Translating twct03.cathayroute.com to ipv4.
+[2021-10-18 16:41:30,256][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:31,795][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:41:31,795][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:41:34,051][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:41:35,837][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:37,089][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:41:37,090][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:41:39,375][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:41:40,708][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:41:40,709][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:41:42,648][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:42,648][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:41:42,648][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:42,649][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C03 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [124.00] - Google Loss: [0.00%] - Google Ping: [178.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:33985
+[2021-10-18 16:41:42,649][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:42,649][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:41:43,653][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C04 Netflix 动画疯 [24/31]
+[2021-10-18 16:41:43,654][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:43,655][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:43,656][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:43,656][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:43,663][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct04.cathayroute.com:33400
+[2021-10-18 16:41:44,670][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:41:45,680][INFO][4466400768][geo_ip.py:46]Translating twct04.cathayroute.com to ipv4.
+[2021-10-18 16:41:45,682][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:47,063][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:41:47,064][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:41:48,925][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:41:50,765][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:41:52,081][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:41:52,081][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:41:54,311][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:41:55,338][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:41:55,339][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:41:57,410][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:57,410][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:41:57,411][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:41:57,411][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C04 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [85.00] - Google Loss: [0.00%] - Google Ping: [183.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:41864
+[2021-10-18 16:41:57,412][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:57,412][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:41:58,417][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C05 Netflix 动画疯 [25/31]
+[2021-10-18 16:41:58,418][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:58,420][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:58,420][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:58,421][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:41:58,429][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct05.cathayroute.com:33400
+[2021-10-18 16:41:59,433][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:42:00,440][INFO][4466400768][geo_ip.py:46]Translating twct05.cathayroute.com to ipv4.
+[2021-10-18 16:42:00,442][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:01,801][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:42:01,802][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:42:03,611][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:42:05,391][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:06,703][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:42:06,704][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:42:09,085][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:42:10,303][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:42:10,304][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:42:11,933][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:11,934][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:42:11,934][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:11,934][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C05 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [80.00] - Google Loss: [0.00%] - Google Ping: [177.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:63014
+[2021-10-18 16:42:11,934][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:11,935][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:42:12,937][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C06 Netflix 动画疯 [26/31]
+[2021-10-18 16:42:12,937][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:12,938][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:12,938][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:12,939][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:12,948][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct06.cathayroute.com:33400
+[2021-10-18 16:42:13,954][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:42:14,964][INFO][4466400768][geo_ip.py:46]Translating twct06.cathayroute.com to ipv4.
+[2021-10-18 16:42:14,965][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:16,253][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:42:16,253][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:42:18,095][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:42:19,850][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:21,088][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:42:21,089][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:42:23,672][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:42:24,943][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:42:24,944][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:42:25,883][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:25,883][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:42:25,883][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:25,884][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C06 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [83.00] - Google Loss: [0.00%] - Google Ping: [175.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:41952
+[2021-10-18 16:42:25,884][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:25,885][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:42:26,888][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C07 Netflix 动画疯 [27/31]
+[2021-10-18 16:42:26,888][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:26,890][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:26,891][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:26,892][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:26,901][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct07.cathayroute.com:33400
+[2021-10-18 16:42:27,908][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:42:28,914][INFO][4466400768][geo_ip.py:46]Translating twct07.cathayroute.com to ipv4.
+[2021-10-18 16:42:28,916][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:30,175][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:42:30,176][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:42:32,096][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:42:33,735][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:34,981][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:42:34,982][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:42:37,086][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:42:38,107][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:42:38,108][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:42:39,285][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:39,286][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:42:39,286][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:39,287][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C07 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [91.00] - Google Loss: [0.00%] - Google Ping: [163.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:57334
+[2021-10-18 16:42:39,287][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:39,287][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:42:40,293][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C08 Netflix 动画疯 [28/31]
+[2021-10-18 16:42:40,293][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:40,296][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:40,297][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:40,297][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:40,307][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct08.cathayroute.com:33400
+[2021-10-18 16:42:41,312][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:42:42,319][INFO][4466400768][geo_ip.py:46]Translating twct08.cathayroute.com to ipv4.
+[2021-10-18 16:42:42,321][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:43,635][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:42:43,653][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:42:45,463][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:42:47,233][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:48,478][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:42:48,478][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:42:50,936][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:42:52,183][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:42:52,184][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:42:53,032][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:53,032][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:42:53,032][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:42:53,033][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C08 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [80.00] - Google Loss: [0.00%] - Google Ping: [176.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:16510
+[2021-10-18 16:42:53,033][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:53,033][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:42:54,034][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C09 Netflix 动画疯 [29/31]
+[2021-10-18 16:42:54,035][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:54,036][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:54,037][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:54,037][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:42:54,043][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct09.cathayroute.com:33400
+[2021-10-18 16:42:55,049][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:42:56,055][INFO][4466400768][geo_ip.py:46]Translating twct09.cathayroute.com to ipv4.
+[2021-10-18 16:42:56,057][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:42:57,404][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:42:57,419][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:42:59,208][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:43:01,071][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:43:02,415][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:43:02,415][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:43:04,819][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:43:06,005][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:43:06,005][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:43:07,237][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:43:07,238][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:43:07,238][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:43:07,239][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C09 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [76.00] - Google Loss: [0.00%] - Google Ping: [185.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:38493
+[2021-10-18 16:43:07,239][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:07,240][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:43:08,242][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C10 Netflix 动画疯 [30/31]
+[2021-10-18 16:43:08,243][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:08,245][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:08,245][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:08,246][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:08,254][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct10.cathayroute.com:33400
+[2021-10-18 16:43:09,264][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:43:10,270][INFO][4466400768][geo_ip.py:46]Translating twct10.cathayroute.com to ipv4.
+[2021-10-18 16:43:10,271][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:43:11,643][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.239, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:43:11,644][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:43:15,156][WARNING][4466400768][ping.py:33]TCP Ping (twct10.cathayroute.com,33400) Timeout 1 times.
+[2021-10-18 16:43:16,405][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:43:18,899][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:43:20,250][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.21, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:43:20,250][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:43:22,836][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.21
+[2021-10-18 16:43:24,007][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:43:24,008][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:43:25,158][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:43:25,159][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:43:25,160][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:43:25,160][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C10 Netflix 动画疯] - Loss: [10.00%] - TCP Ping: [83.00] - Google Loss: [0.00%] - Google Ping: [248.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.21:23245
+[2021-10-18 16:43:25,160][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:25,161][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:43:26,163][INFO][4466400768][speed_test.py:242]Starting test netflix - 中国-台湾桃园 IPLC 台湾固网 C11 Netflix 动画疯 [31/31]
+[2021-10-18 16:43:26,164][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:26,167][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:26,168][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:26,168][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:26,177][INFO][4466400768][client_shadowsocks.py:36]Starting Shadowsocks-libev with server twct11.cathayroute.com:33400
+[2021-10-18 16:43:27,183][INFO][4466400768][speed_test.py:276]Client started.
+[2021-10-18 16:43:28,192][INFO][4466400768][geo_ip.py:46]Translating twct11.cathayroute.com to ipv4.
+[2021-10-18 16:43:28,193][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:43:29,565][INFO][4466400768][speed_test.py:111]Node inbound IP : 183.232.197.240, Geo : China Unknown City, China Mobile Guangdong
+[2021-10-18 16:43:29,565][INFO][4466400768][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:43:31,302][INFO][4466400768][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:43:32,952][INFO][4466400768][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:43:34,224][INFO][4466400768][speed_test.py:127]Node outbound IP : 60.249.25.55, Geo : Taiwan Yunlin, Chunghwa Telecom
+[2021-10-18 16:43:34,224][INFO][4466400768][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:43:36,407][INFO][4466400768][speed_test.py:153]Netflix IP : 60.249.25.55
+[2021-10-18 16:43:37,556][INFO][4466400768][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:43:37,556][INFO][4466400768][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:43:38,469][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:43:38,470][WARNING][4466400768][speed_test.py:374]Re-testing node.
+[2021-10-18 16:43:38,471][INFO][4466400768][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:43:38,471][INFO][4466400768][speed_test.py:386][netflix] - [中国-台湾桃园 IPLC 台湾固网 C11 Netflix 动画疯] - Loss: [0.00%] - TCP Ping: [73.00] - Google Loss: [0.00%] - Google Ping: [164.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 60.249.25.55:48936
+[2021-10-18 16:43:38,472][INFO][4466400768][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:43:38,473][INFO][4466400768][base_client.py:51]Client terminated.
+[2021-10-18 16:43:39,518][INFO][4466400768][export_result.py:60]Time Used : 00:07:34
+[2021-10-18 16:43:39,518][INFO][4466400768][export_result.py:46]Set colors as origin.
+[2021-10-18 16:43:40,072][INFO][4466400768][export_result.py:263]Result image saved as ./results/2021-10-18-16-43-39.png

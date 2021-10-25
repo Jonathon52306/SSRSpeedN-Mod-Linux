@@ -1,0 +1,247 @@
+[2021-10-18 17:13:38,584][INFO][4671475200][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 17:13:38,585][INFO][4671475200][requirements_check.py:73]Checking libsodium.
+[2021-10-18 17:13:43,250][INFO][4671475200][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 17:13:43,251][INFO][4671475200][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 17:13:43,253][INFO][4671475200][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 17:13:43,254][INFO][4671475200][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 17:13:43,254][INFO][4671475200][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2
+[2021-10-18 17:13:44,760][INFO][4671475200][config_parser.py:220]Base64 decode failed.
+[2021-10-18 17:13:45,713][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C01 Netflix
+[2021-10-18 17:13:45,713][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C02 Netflix
+[2021-10-18 17:13:45,714][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C03 Netflix
+[2021-10-18 17:13:45,714][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C04 Netflix
+[2021-10-18 17:13:45,715][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Legacy Magic IEPL 中继 C05 Netflix
+[2021-10-18 17:13:45,715][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C01 Netflix
+[2021-10-18 17:13:45,716][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C02 Netflix
+[2021-10-18 17:13:45,716][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C03 Netflix
+[2021-10-18 17:13:45,716][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C04 Netflix
+[2021-10-18 17:13:45,717][INFO][4671475200][config_parser.py:152]netflix - 新加坡 Magic IEPL 中继 C05 Netflix
+[2021-10-18 17:13:45,717][INFO][4671475200][config_parser.py:152]netflix - 新加坡高级 IEPL 中继 C01 Netflix
+[2021-10-18 17:13:45,718][INFO][4671475200][config_parser.py:152]netflix - 新加坡高级 IEPL 中继 C02 Netflix
+[2021-10-18 17:13:45,718][INFO][4671475200][config_parser.py:152]netflix - 新加坡高级 IEPL 中继 C03 Netflix
+[2021-10-18 17:13:45,719][INFO][4671475200][ssrspeed_core.py:165]13 node(s) will be test.
+[2021-10-18 17:13:45,723][INFO][4671475200][speed_test.py:421]Test mode : speed and tcp ping.Test method : FAST.
+[2021-10-18 17:13:45,724][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Legacy Magic IEPL 中继 C01 Netflix [1/13]
+[2021-10-18 17:13:45,740][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp01.cathayroute.com:33400
+[2021-10-18 17:13:46,745][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:13:47,752][INFO][4671475200][geo_ip.py:46]Translating sgp01.cathayroute.com to ipv4.
+[2021-10-18 17:13:47,754][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:13:49,053][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:13:49,053][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:13:50,905][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:13:52,917][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:13:53,862][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:13:53,862][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:13:56,741][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:13:59,210][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:13:59,211][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:13:59,976][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:13:59,977][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:13:59,977][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:00,981][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Legacy Magic IEPL 中继 C02 Netflix [2/13]
+[2021-10-18 17:14:00,991][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp02.cathayroute.com:33400
+[2021-10-18 17:14:01,998][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:14:03,002][INFO][4671475200][geo_ip.py:46]Translating sgp02.cathayroute.com to ipv4.
+[2021-10-18 17:14:03,035][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:04,121][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:14:04,122][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:14:05,955][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:14:07,992][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:08,914][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:14:08,915][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:14:12,277][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:14:14,742][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:14:14,742][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:14:16,442][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:16,442][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:14:16,442][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:17,448][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Legacy Magic IEPL 中继 C03 Netflix [3/13]
+[2021-10-18 17:14:17,454][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp03.cathayroute.com:33400
+[2021-10-18 17:14:18,460][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:14:19,465][INFO][4671475200][geo_ip.py:46]Translating sgp03.cathayroute.com to ipv4.
+[2021-10-18 17:14:19,468][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:20,493][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:14:20,493][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:14:22,272][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:14:24,433][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:25,423][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:14:25,424][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:14:28,022][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:14:30,652][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:14:30,652][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:14:31,652][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:31,652][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:14:31,652][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:32,657][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Legacy Magic IEPL 中继 C04 Netflix [4/13]
+[2021-10-18 17:14:32,664][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp04.cathayroute.com:33400
+[2021-10-18 17:14:33,670][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:14:34,676][INFO][4671475200][geo_ip.py:46]Translating sgp04.cathayroute.com to ipv4.
+[2021-10-18 17:14:34,677][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:35,649][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:14:35,649][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:14:37,447][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:14:39,615][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:40,580][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:14:40,580][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:14:43,395][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:14:45,871][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:14:45,871][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:14:46,618][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:46,619][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:14:46,619][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:14:47,623][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Legacy Magic IEPL 中继 C05 Netflix [5/13]
+[2021-10-18 17:14:47,628][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp05.cathayroute.com:33400
+[2021-10-18 17:14:48,633][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:14:49,638][INFO][4671475200][geo_ip.py:46]Translating sgp05.cathayroute.com to ipv4.
+[2021-10-18 17:14:49,640][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:50,498][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:14:50,498][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:14:52,291][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:14:54,536][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:14:55,672][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:14:55,672][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:14:58,683][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:15:01,325][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:15:01,326][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:15:03,183][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:03,184][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:15:03,185][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:04,191][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Magic IEPL 中继 C01 Netflix [6/13]
+[2021-10-18 17:15:04,199][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp06.cathayroute.com:33400
+[2021-10-18 17:15:05,204][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:15:06,210][INFO][4671475200][geo_ip.py:46]Translating sgp06.cathayroute.com to ipv4.
+[2021-10-18 17:15:06,213][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:07,184][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:15:07,185][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:15:08,978][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:15:11,145][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:12,031][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:15:12,031][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:15:14,767][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:15:17,204][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:15:17,205][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:15:18,547][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:18,547][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:15:18,547][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:19,551][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Magic IEPL 中继 C02 Netflix [7/13]
+[2021-10-18 17:15:19,563][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp07.cathayroute.com:33400
+[2021-10-18 17:15:20,567][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:15:21,576][INFO][4671475200][geo_ip.py:46]Translating sgp07.cathayroute.com to ipv4.
+[2021-10-18 17:15:21,578][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:22,519][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:15:22,520][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:15:24,540][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:15:26,911][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:27,947][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:15:27,947][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:15:30,950][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:15:34,146][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:15:34,147][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:15:35,278][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:35,278][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:15:35,278][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:36,283][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Magic IEPL 中继 C03 Netflix [8/13]
+[2021-10-18 17:15:36,290][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp08.cathayroute.com:33400
+[2021-10-18 17:15:37,296][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:15:38,300][INFO][4671475200][geo_ip.py:46]Translating sgp08.cathayroute.com to ipv4.
+[2021-10-18 17:15:38,303][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:39,341][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:15:39,342][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:15:41,147][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:15:44,439][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:45,518][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:15:45,518][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:15:48,333][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:15:50,957][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:15:50,959][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:15:51,929][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:51,929][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:15:51,929][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:15:52,934][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Magic IEPL 中继 C04 Netflix [9/13]
+[2021-10-18 17:15:52,941][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp09.cathayroute.com:33400
+[2021-10-18 17:15:53,947][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:15:54,956][INFO][4671475200][geo_ip.py:46]Translating sgp09.cathayroute.com to ipv4.
+[2021-10-18 17:15:54,958][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:15:56,139][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:15:56,139][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:15:57,959][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:16:01,299][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:16:03,520][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:16:03,520][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:16:06,648][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:16:11,845][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:16:11,846][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:16:13,331][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:16:13,332][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:16:13,332][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:16:14,336][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡 Magic IEPL 中继 C05 Netflix [10/13]
+[2021-10-18 17:16:14,345][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp10.cathayroute.com:33400
+[2021-10-18 17:16:15,352][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:16:16,354][INFO][4671475200][geo_ip.py:46]Translating sgp10.cathayroute.com to ipv4.
+[2021-10-18 17:16:16,355][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:16:17,450][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:16:17,450][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:16:19,264][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:16:22,515][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:16:23,718][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:16:23,718][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:16:26,623][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:16:29,525][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:16:29,525][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:16:30,650][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:16:30,650][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:16:30,651][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:16:31,655][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡高级 IEPL 中继 C01 Netflix [11/13]
+[2021-10-18 17:16:31,660][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp11.cathayroute.com:33400
+[2021-10-18 17:16:32,665][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:16:33,672][INFO][4671475200][geo_ip.py:46]Translating sgp11.cathayroute.com to ipv4.
+[2021-10-18 17:16:33,674][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:16:34,838][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:16:34,839][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:16:36,638][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:16:40,287][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:16:41,506][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:16:41,507][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:16:44,522][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:16:47,707][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:16:47,707][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:16:49,180][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:16:49,181][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:16:49,181][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:16:50,186][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡高级 IEPL 中继 C02 Netflix [12/13]
+[2021-10-18 17:16:50,192][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp12.cathayroute.com:33400
+[2021-10-18 17:16:51,197][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:16:52,201][INFO][4671475200][geo_ip.py:46]Translating sgp12.cathayroute.com to ipv4.
+[2021-10-18 17:16:52,202][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:16:53,332][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:16:53,332][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:16:55,766][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:16:58,965][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:17:00,237][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:17:00,237][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:17:03,105][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:17:05,988][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:17:05,989][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:17:07,162][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:17:07,163][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:17:07,163][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:17:08,168][INFO][4671475200][speed_test.py:242]Starting test netflix - 新加坡高级 IEPL 中继 C03 Netflix [13/13]
+[2021-10-18 17:17:08,186][INFO][4671475200][client_shadowsocks.py:36]Starting Shadowsocks-libev with server sgp13.cathayroute.com:33400
+[2021-10-18 17:17:09,192][INFO][4671475200][speed_test.py:276]Client started.
+[2021-10-18 17:17:10,196][INFO][4671475200][geo_ip.py:46]Translating sgp13.cathayroute.com to ipv4.
+[2021-10-18 17:17:10,198][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:17:11,297][INFO][4671475200][speed_test.py:111]Node inbound IP : 162.14.13.189, Geo : Hong Kong Unknown City, Tencent cloud computing
+[2021-10-18 17:17:11,297][INFO][4671475200][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 17:17:13,387][INFO][4671475200][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 17:17:16,346][INFO][4671475200][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 17:17:17,331][INFO][4671475200][speed_test.py:127]Node outbound IP : 50.7.253.98, Geo : Singapore Singapore, Fdcservers
+[2021-10-18 17:17:17,332][INFO][4671475200][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 17:17:20,213][INFO][4671475200][speed_test.py:153]Netflix IP : 39.109.245.22
+[2021-10-18 17:17:22,968][INFO][4671475200][speed_test.py:173]Netflix test result: DNS解锁.
+[2021-10-18 17:17:22,968][INFO][4671475200][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 17:17:24,109][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:17:24,109][WARNING][4671475200][speed_test.py:374]Re-testing node.
+[2021-10-18 17:17:24,110][INFO][4671475200][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 17:17:25,129][INFO][4671475200][export_result.py:60]Time Used : 00:03:39
+[2021-10-18 17:17:25,130][INFO][4671475200][export_result.py:46]Set colors as origin.
+[2021-10-18 17:17:25,424][INFO][4671475200][export_result.py:263]Result image saved as ./results/2021-10-18-17-17-25.png

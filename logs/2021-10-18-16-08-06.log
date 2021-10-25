@@ -1,0 +1,10 @@
+[2021-10-18 16:08:06,591][INFO][4489285120][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 16:08:06,591][INFO][4489285120][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:08:06,591][INFO][4489285120][requirements_check.py:73]Checking libsodium.
+[2021-10-18 16:08:06,591][INFO][4489285120][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:08:09,020][INFO][4489285120][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 16:08:09,021][INFO][4489285120][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 16:08:09,023][INFO][4489285120][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 16:08:09,023][INFO][4489285120][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 16:08:09,023][INFO][4489285120][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2
+[2021-10-18 16:08:13,155][INFO][4489285120][config_parser.py:220]Base64 decode failed.

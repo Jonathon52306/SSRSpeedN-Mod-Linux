@@ -1,0 +1,1115 @@
+[2021-10-18 16:26:55,641][INFO][4688834048][main.py:88]SSRSpeed 1.01, Web Api Version 0.5.2
+[2021-10-18 16:26:55,641][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:26:55,642][INFO][4688834048][requirements_check.py:73]Checking libsodium.
+[2021-10-18 16:26:55,642][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:26:58,376][INFO][4688834048][requirements_check.py:57]Checking ./clients/v2ray-core/v2ctl
+[2021-10-18 16:26:58,376][INFO][4688834048][requirements_check.py:57]Checking ./clients/v2ray-core/v2ray
+[2021-10-18 16:26:58,378][INFO][4688834048][requirements_check.py:123]Shadowsocks-libev found /usr/local/bin/ss-local
+[2021-10-18 16:26:58,378][INFO][4688834048][requirements_check.py:120]Obfs-Local found /usr/local/bin/obfs-local
+[2021-10-18 16:26:58,379][INFO][4688834048][config_parser.py:176]Reading https://fast.losadhwselfff2332dasd.xyz/link/UHFeqi6SwVAesyOi?clash=2
+[2021-10-18 16:26:59,498][INFO][4688834048][config_parser.py:220]Base64 decode failed.
+[2021-10-18 16:26:59,953][WARNING][4688834048][node_filters.py:37]🔰国外流量 - 1 官网: https://管人痴.com (127.0.0.1:33400) already in list.
+[2021-10-18 16:26:59,989][WARNING][4688834048][node_filters.py:37]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） H 1000Mbps (hr07.cathayroute.com:33400) already in list.
+[2021-10-18 16:27:00,165][WARNING][4688834048][node_filters.py:37]🔰国外流量 - 本站无Ins推广渠道 Ins推广渠道均为二手倒卖 (127.0.0.1:33400) already in list.
+[2021-10-18 16:27:00,165][WARNING][4688834048][node_filters.py:37]🔰国外流量 - 本站无QQ购买渠道 QQ卖家购买均为二手倒卖 (127.0.0.1:33400) already in list.
+[2021-10-18 16:27:00,165][WARNING][4688834048][node_filters.py:37]🔰国外流量 - 本站无微信购买渠道 微信购买均为二手倒卖 (127.0.0.1:33400) already in list.
+[2021-10-18 16:27:00,214][WARNING][4688834048][node_filters.py:37]🔰国外流量 - 精简 30 (30.secureencryptedvirtualization.com:33400) already in list.
+[2021-10-18 16:27:01,173][INFO][4688834048][config_parser.py:152]🔰国外流量 - 1 加入用户群: https://t.me/joinchat/j_AxEbSzcX85NWI1
+[2021-10-18 16:27:01,174][INFO][4688834048][config_parser.py:152]🔰国外流量 - ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC C01
+[2021-10-18 16:27:01,174][INFO][4688834048][config_parser.py:152]🔰国外流量 - IPV6 俄罗斯 C01
+[2021-10-18 16:27:01,174][INFO][4688834048][config_parser.py:152]🔰国外流量 - IPV6 加拿大 C01
+[2021-10-18 16:27:01,174][INFO][4688834048][config_parser.py:152]🔰国外流量 - IPV6 日本 C01
+[2021-10-18 16:27:01,174][INFO][4688834048][config_parser.py:152]🔰国外流量 - IPV6 法国 C01
+[2021-10-18 16:27:01,175][INFO][4688834048][config_parser.py:152]🔰国外流量 - IPV6 澳大利亚 C01
+[2021-10-18 16:27:01,175][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C01
+[2021-10-18 16:27:01,175][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C02
+[2021-10-18 16:27:01,175][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C03
+[2021-10-18 16:27:01,175][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C04
+[2021-10-18 16:27:01,175][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-加拿大 IPLC C05
+[2021-10-18 16:27:01,176][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C01
+[2021-10-18 16:27:01,176][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C02
+[2021-10-18 16:27:01,176][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C03
+[2021-10-18 16:27:01,176][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C04
+[2021-10-18 16:27:01,176][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C05
+[2021-10-18 16:27:01,177][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C06
+[2021-10-18 16:27:01,177][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C07
+[2021-10-18 16:27:01,177][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C08
+[2021-10-18 16:27:01,177][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C09
+[2021-10-18 16:27:01,177][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C01 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C02 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C03 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C04 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C05 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C06 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C07 Netflix 动画疯
+[2021-10-18 16:27:01,178][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C08 Netflix 动画疯
+[2021-10-18 16:27:01,179][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C09 Netflix 动画疯
+[2021-10-18 16:27:01,179][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾 VPDN 嘉义游戏专线 C10 Netflix 动画疯
+[2021-10-18 16:27:01,179][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C01 Netflix 动画疯
+[2021-10-18 16:27:01,179][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C02 Netflix 动画疯
+[2021-10-18 16:27:01,179][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C03 Netflix 动画疯
+[2021-10-18 16:27:01,180][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C04 Netflix 动画疯
+[2021-10-18 16:27:01,180][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C05 Netflix 动画疯
+[2021-10-18 16:27:01,180][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C06 Netflix 动画疯
+[2021-10-18 16:27:01,180][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C07 Netflix 动画疯
+[2021-10-18 16:27:01,180][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C08 Netflix 动画疯
+[2021-10-18 16:27:01,180][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C09 Netflix 动画疯
+[2021-10-18 16:27:01,181][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾彰化 IEPL HiNet固接 C10 Netflix 动画疯
+[2021-10-18 16:27:01,181][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C01 Netflix 动画疯
+[2021-10-18 16:27:01,181][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C02 Netflix 动画疯
+[2021-10-18 16:27:01,182][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C03 Netflix 动画疯
+[2021-10-18 16:27:01,182][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C04 Netflix 动画疯
+[2021-10-18 16:27:01,182][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C05 Netflix 动画疯
+[2021-10-18 16:27:01,183][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C06 Netflix 动画疯
+[2021-10-18 16:27:01,183][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C07 Netflix 动画疯
+[2021-10-18 16:27:01,184][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C08 Netflix 动画疯
+[2021-10-18 16:27:01,184][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C09 Netflix 动画疯
+[2021-10-18 16:27:01,184][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C10 Netflix 动画疯
+[2021-10-18 16:27:01,185][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-台湾桃园 IPLC 台湾固网 C11 Netflix 动画疯
+[2021-10-18 16:27:01,186][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） A 1000Mbps
+[2021-10-18 16:27:01,186][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） B 1000Mbps
+[2021-10-18 16:27:01,187][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） C 1000Mbps
+[2021-10-18 16:27:01,187][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） D 1000Mbps
+[2021-10-18 16:27:01,187][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） E 1000Mbps
+[2021-10-18 16:27:01,188][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） F 1000Mbps
+[2021-10-18 16:27:01,188][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） G 1000Mbps
+[2021-10-18 16:27:01,188][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） I 1000Mbps
+[2021-10-18 16:27:01,189][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 多协议标签交换虚拟专用网（三） J 1000Mbps
+[2021-10-18 16:27:01,189][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C01 Netflix
+[2021-10-18 16:27:01,190][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C02 Netflix
+[2021-10-18 16:27:01,191][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C03 Netflix
+[2021-10-18 16:27:01,192][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C04 Netflix
+[2021-10-18 16:27:01,193][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C05 Netflix
+[2021-10-18 16:27:01,193][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C06 Netflix
+[2021-10-18 16:27:01,194][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C07 Netflix
+[2021-10-18 16:27:01,194][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-日本 沪日IEPL传输 Equinix-TY8 C08 Netflix
+[2021-10-18 16:27:01,194][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C01
+[2021-10-18 16:27:01,195][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C02
+[2021-10-18 16:27:01,195][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C03
+[2021-10-18 16:27:01,196][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C04
+[2021-10-18 16:27:01,197][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-法国 IPLC C05
+[2021-10-18 16:27:01,197][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C01
+[2021-10-18 16:27:01,198][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C02
+[2021-10-18 16:27:01,198][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C03
+[2021-10-18 16:27:01,198][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C04
+[2021-10-18 16:27:01,198][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-澳大利亚 IPLC 悉尼 C05
+[2021-10-18 16:27:01,199][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C01
+[2021-10-18 16:27:01,199][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C02
+[2021-10-18 16:27:01,199][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C03
+[2021-10-18 16:27:01,200][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C04
+[2021-10-18 16:27:01,200][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-爱尔兰 IPLC C05
+[2021-10-18 16:27:01,201][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C01
+[2021-10-18 16:27:01,201][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C02
+[2021-10-18 16:27:01,202][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C03
+[2021-10-18 16:27:01,202][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C04
+[2021-10-18 16:27:01,203][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C05
+[2021-10-18 16:27:01,203][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-英国伦敦 IPLC BBC C06
+[2021-10-18 16:27:01,204][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）A 1Gbps
+[2021-10-18 16:27:01,204][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）B 1Gbps
+[2021-10-18 16:27:01,204][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）C 1Gbps
+[2021-10-18 16:27:01,204][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）D 1Gbps
+[2021-10-18 16:27:01,205][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-韩国 IEPL（三）E 1Gbps
+[2021-10-18 16:27:01,205][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 01 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,205][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 02 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,205][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 03 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,206][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 04 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,206][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 05 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,206][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 06 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,207][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 07 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,207][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 08 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,207][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 09 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,208][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IEPL Equinix HK8 C 10 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,208][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 01 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,209][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 02 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,209][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 03 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,210][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 04 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,210][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 05 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,211][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 06 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,211][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 07 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,211][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 08 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,211][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 09 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,211][INFO][4688834048][config_parser.py:152]🔰国外流量 - 中国-香港 IPLC Equinix HK2 C 10 1Gbps Netflix HBO TVB
+[2021-10-18 16:27:01,212][INFO][4688834048][config_parser.py:152]🔰国外流量 - 因V2ray重大漏洞问题，暂时下架全部V2节点。请使用ssr/ss连接方式进行使用。
+[2021-10-18 16:27:01,212][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C01 Netflix
+[2021-10-18 16:27:01,212][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C02 Netflix
+[2021-10-18 16:27:01,212][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C03 Netflix
+[2021-10-18 16:27:01,212][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C04 Netflix
+[2021-10-18 16:27:01,213][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Legacy Magic IEPL 中继 C05 Netflix
+[2021-10-18 16:27:01,213][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C01 Netflix
+[2021-10-18 16:27:01,213][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C02 Netflix
+[2021-10-18 16:27:01,213][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C03 Netflix
+[2021-10-18 16:27:01,214][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C04 Netflix
+[2021-10-18 16:27:01,214][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡 Magic IEPL 中继 C05 Netflix
+[2021-10-18 16:27:01,214][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡高级 IEPL 中继 C01 Netflix
+[2021-10-18 16:27:01,214][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡高级 IEPL 中继 C02 Netflix
+[2021-10-18 16:27:01,215][INFO][4688834048][config_parser.py:152]🔰国外流量 - 新加坡高级 IEPL 中继 C03 Netflix
+[2021-10-18 16:27:01,215][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C01 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,215][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C02 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,216][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C03 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,216][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C04 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,218][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C05 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,219][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C06 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,220][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C07 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,220][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C08 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,221][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C09 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,222][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C10 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,222][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C11 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,223][INFO][4688834048][config_parser.py:152]🔰国外流量 - 日本 ソフトバンク C12 500Mbps 1倍 Netflix
+[2021-10-18 16:27:01,223][INFO][4688834048][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C01
+[2021-10-18 16:27:01,224][INFO][4688834048][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C02
+[2021-10-18 16:27:01,224][INFO][4688834048][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C03
+[2021-10-18 16:27:01,225][INFO][4688834048][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C04
+[2021-10-18 16:27:01,225][INFO][4688834048][config_parser.py:152]🔰国外流量 - 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 C05
+[2021-10-18 16:27:01,225][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 21
+[2021-10-18 16:27:01,226][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 22
+[2021-10-18 16:27:01,226][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 23
+[2021-10-18 16:27:01,226][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 24
+[2021-10-18 16:27:01,227][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 25
+[2021-10-18 16:27:01,227][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 26
+[2021-10-18 16:27:01,228][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 27
+[2021-10-18 16:27:01,229][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 28
+[2021-10-18 16:27:01,230][INFO][4688834048][config_parser.py:152]🔰国外流量 - 精简 29
+[2021-10-18 16:27:01,230][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C01
+[2021-10-18 16:27:01,231][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C02
+[2021-10-18 16:27:01,231][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C03
+[2021-10-18 16:27:01,232][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C04
+[2021-10-18 16:27:01,232][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国实验性 IEPL 中继 C05
+[2021-10-18 16:27:01,233][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C01
+[2021-10-18 16:27:01,233][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C02
+[2021-10-18 16:27:01,234][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C03
+[2021-10-18 16:27:01,234][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C04
+[2021-10-18 16:27:01,235][INFO][4688834048][config_parser.py:152]🔰国外流量 - 美国高级 IEPL 中继 C05
+[2021-10-18 16:27:01,236][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 01
+[2021-10-18 16:27:01,237][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 02
+[2021-10-18 16:27:01,237][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 03
+[2021-10-18 16:27:01,237][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 04
+[2021-10-18 16:27:01,238][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 전라북도 전주시 商宽 C 05
+[2021-10-18 16:27:01,238][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 01
+[2021-10-18 16:27:01,238][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 02
+[2021-10-18 16:27:01,239][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 03
+[2021-10-18 16:27:01,239][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 04
+[2021-10-18 16:27:01,239][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 05
+[2021-10-18 16:27:01,240][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 06
+[2021-10-18 16:27:01,240][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 07
+[2021-10-18 16:27:01,241][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 08
+[2021-10-18 16:27:01,242][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 09
+[2021-10-18 16:27:01,242][INFO][4688834048][config_parser.py:152]🔰国外流量 - 韩国 京畿道板桥 原生游戏解锁 C 10
+[2021-10-18 16:27:01,242][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C01
+[2021-10-18 16:27:01,243][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C02
+[2021-10-18 16:27:01,243][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C03
+[2021-10-18 16:27:01,243][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C04
+[2021-10-18 16:27:01,244][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C06
+[2021-10-18 16:27:01,244][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C07
+[2021-10-18 16:27:01,244][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C08
+[2021-10-18 16:27:01,245][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 名氣通電訊 C09
+[2021-10-18 16:27:01,245][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C01
+[2021-10-18 16:27:01,245][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C02
+[2021-10-18 16:27:01,245][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C03
+[2021-10-18 16:27:01,245][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C04
+[2021-10-18 16:27:01,246][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C05
+[2021-10-18 16:27:01,246][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C06
+[2021-10-18 16:27:01,247][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C07
+[2021-10-18 16:27:01,248][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C08
+[2021-10-18 16:27:01,249][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C09
+[2021-10-18 16:27:01,250][INFO][4688834048][config_parser.py:152]🔰国外流量 - 香港 油尖旺御金·国峯 環球全域電訊 C10
+[2021-10-18 16:27:01,258][INFO][4688834048][ssrspeed_core.py:165]198 node(s) will be test.
+[2021-10-18 16:27:01,264][INFO][4688834048][speed_test.py:421]Test mode : speed and tcp ping.Test method : FAST.
+[2021-10-18 16:27:01,265][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 1 加入用户群: https://t.me/joinchat/j_AxEbSzcX85NWI1 [1/198]
+[2021-10-18 16:27:01,265][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:01,267][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:01,267][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:01,267][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:01,274][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 127.0.0.1:33400
+[2021-10-18 16:27:02,280][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:03,286][INFO][4688834048][geo_ip.py:46]Translating 127.0.0.1 to ipv4.
+[2021-10-18 16:27:03,288][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:03,318][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/127.0.0.1 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/127.0.0.1 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:03,324][INFO][4688834048][speed_test.py:111]Node inbound IP : 127.0.0.1, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:03,324][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:03,324][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+ConnectionRefusedError: [Errno 61] Connection refused
+[2021-10-18 16:27:03,325][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+ConnectionRefusedError: [Errno 61] Connection refused
+[2021-10-18 16:27:03,326][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+ConnectionRefusedError: [Errno 61] Connection refused
+[2021-10-18 16:27:04,331][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:04,357][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:04,361][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:04,361][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:04,408][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:27:04,410][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:04,410][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:05,415][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC C01 [2/198]
+[2021-10-18 16:27:05,416][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:05,417][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:05,418][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:05,418][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:05,426][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server pvcc01.cathayroute.com:33400
+[2021-10-18 16:27:06,432][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:07,435][INFO][4688834048][geo_ip.py:46]Translating pvcc01.cathayroute.com to ipv4.
+[2021-10-18 16:27:07,436][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:08,675][INFO][4688834048][speed_test.py:111]Node inbound IP : 162.14.11.142, Geo : United States Unknown City, Tencent cloud computing
+[2021-10-18 16:27:08,676][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:10,139][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:27:11,600][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:13,223][INFO][4688834048][speed_test.py:127]Node outbound IP : 210.0.159.46, Geo : Hong Kong Central, HGC Broadband
+[2021-10-18 16:27:13,224][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:15,936][INFO][4688834048][speed_test.py:153]Netflix IP : 210.0.159.46
+[2021-10-18 16:27:17,906][INFO][4688834048][speed_test.py:170]Netflix test result: 原生解锁.
+[2021-10-18 16:27:17,907][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:27:19,170][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:27:19,171][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:27:19,171][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:27:19,171][INFO][4688834048][speed_test.py:386][🔰国外流量] - [ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC C01] - Loss: [0.00%] - TCP Ping: [46.00] - Google Loss: [0.00%] - Google Ping: [145.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 210.0.159.46:51748
+[2021-10-18 16:27:19,171][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:19,171][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:20,177][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - IPV6 俄罗斯 C01 [3/198]
+[2021-10-18 16:27:20,177][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:20,178][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:20,178][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:20,179][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:20,187][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 2a00:b700:2::8:e6:33400
+[2021-10-18 16:27:21,195][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:22,203][INFO][4688834048][geo_ip.py:46]Translating 2a00:b700:2::8:e6 to ipv4.
+[2021-10-18 16:27:22,204][ERROR][4688834048][geo_ip.py:54]Translate 2a00:b700:2::8:e6 to ipv4 failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 51, in domain2ip
+    ip = socket.gethostbyname(domain)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:22,205][ERROR][4688834048][geo_ip.py:61]Invalid IP : N/A
+[2021-10-18 16:27:22,205][INFO][4688834048][speed_test.py:111]Node inbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:22,205][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:22,205][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:22,206][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:22,207][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:23,212][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:23,238][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:23,243][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:23,244][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:23,261][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:27:23,264][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:23,264][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:24,266][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - IPV6 加拿大 C01 [4/198]
+[2021-10-18 16:27:24,266][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:24,268][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:24,269][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:24,269][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:24,277][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 2600:1f11:f6f:2300:60be:4248:6c6:96bd:33400
+[2021-10-18 16:27:25,282][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:26,289][INFO][4688834048][geo_ip.py:46]Translating 2600:1f11:f6f:2300:60be:4248:6c6:96bd to ipv4.
+[2021-10-18 16:27:26,290][ERROR][4688834048][geo_ip.py:54]Translate 2600:1f11:f6f:2300:60be:4248:6c6:96bd to ipv4 failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 51, in domain2ip
+    ip = socket.gethostbyname(domain)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:26,291][ERROR][4688834048][geo_ip.py:61]Invalid IP : N/A
+[2021-10-18 16:27:26,292][INFO][4688834048][speed_test.py:111]Node inbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:26,292][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:26,293][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:26,294][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:26,294][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:27,300][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:27,316][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:27,321][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:27,323][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:27,342][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:27:27,344][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:27,345][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:28,347][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - IPV6 日本 C01 [5/198]
+[2021-10-18 16:27:28,348][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:28,350][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:28,350][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:28,350][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:28,357][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 2401:2500:204:1102:153:127:9:202:33400
+[2021-10-18 16:27:29,364][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:30,368][INFO][4688834048][geo_ip.py:46]Translating 2401:2500:204:1102:153:127:9:202 to ipv4.
+[2021-10-18 16:27:30,369][ERROR][4688834048][geo_ip.py:54]Translate 2401:2500:204:1102:153:127:9:202 to ipv4 failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 51, in domain2ip
+    ip = socket.gethostbyname(domain)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:30,370][ERROR][4688834048][geo_ip.py:61]Invalid IP : N/A
+[2021-10-18 16:27:30,371][INFO][4688834048][speed_test.py:111]Node inbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:30,371][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:30,371][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:30,372][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:30,373][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:31,379][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:31,400][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:31,404][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:31,406][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:31,422][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:27:31,424][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:31,424][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:32,428][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - IPV6 法国 C01 [6/198]
+[2021-10-18 16:27:32,428][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:32,429][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:32,429][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:32,429][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:32,433][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 2a05:d012:80f:400:a604:caa0:28d5:d06a:33400
+[2021-10-18 16:27:33,436][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:34,442][INFO][4688834048][geo_ip.py:46]Translating 2a05:d012:80f:400:a604:caa0:28d5:d06a to ipv4.
+[2021-10-18 16:27:34,442][ERROR][4688834048][geo_ip.py:54]Translate 2a05:d012:80f:400:a604:caa0:28d5:d06a to ipv4 failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 51, in domain2ip
+    ip = socket.gethostbyname(domain)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:34,443][ERROR][4688834048][geo_ip.py:61]Invalid IP : N/A
+[2021-10-18 16:27:34,443][INFO][4688834048][speed_test.py:111]Node inbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:34,443][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:34,444][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:34,445][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:34,446][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:35,451][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:35,476][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:35,480][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:35,480][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:35,496][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:27:35,498][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:35,498][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:36,501][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - IPV6 澳大利亚 C01 [7/198]
+[2021-10-18 16:27:36,502][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:36,503][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:36,503][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:36,503][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:36,508][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server 2406:da1c:1f3:202:348b:dcca:764d:e1fa:33400
+[2021-10-18 16:27:37,514][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:38,519][INFO][4688834048][geo_ip.py:46]Translating 2406:da1c:1f3:202:348b:dcca:764d:e1fa to ipv4.
+[2021-10-18 16:27:38,520][ERROR][4688834048][geo_ip.py:54]Translate 2406:da1c:1f3:202:348b:dcca:764d:e1fa to ipv4 failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 51, in domain2ip
+    ip = socket.gethostbyname(domain)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:38,521][ERROR][4688834048][geo_ip.py:61]Invalid IP : N/A
+[2021-10-18 16:27:38,521][INFO][4688834048][speed_test.py:111]Node inbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:38,522][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:38,522][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:38,523][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:38,524][ERROR][4688834048][ping.py:36]TCP Ping Exception:
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 24, in tcp_ping
+    s.connect((host,port))
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:27:39,530][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:39,557][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 411, in connect
+    self.sock = ssl_wrap_socket(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/ssl_.py", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+[2021-10-18 16:27:39,562][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:27:39,563][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:27:39,580][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"),)
+[2021-10-18 16:27:39,584][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:39,584][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:27:40,589][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-加拿大 IPLC C01 [8/198]
+[2021-10-18 16:27:40,590][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:40,591][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:40,592][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:40,592][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:27:40,597][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server ca01.cathayroute.com:33400
+[2021-10-18 16:27:41,605][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:27:42,610][INFO][4688834048][geo_ip.py:46]Translating ca01.cathayroute.com to ipv4.
+[2021-10-18 16:27:42,612][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:44,358][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.22, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:27:44,358][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:27:48,965][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:27:56,242][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:27:57,850][INFO][4688834048][speed_test.py:127]Node outbound IP : 35.183.25.99, Geo : Canada Montreal, Amazon.com
+[2021-10-18 16:27:57,850][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:28:02,302][INFO][4688834048][speed_test.py:153]Netflix IP : 35.183.25.99
+[2021-10-18 16:28:04,329][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:28:04,330][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:28:05,790][ERROR][4688834048][speed_test.py:227]
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/speed_test.py", line 219, in __nat_type_test
+    t, eip, eport, sip = pynat.get_ip_info(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/pynat.py", line 238, in get_ip_info
+    source_ip = get_internal_ip(stun_addr)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/pynat.py", line 163, in get_internal_ip
+    sock.connect(test_addr)
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+[2021-10-18 16:28:05,792][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:28:05,792][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:28:05,792][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:28:05,793][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-加拿大 IPLC C01] - Loss: [0.00%] - TCP Ping: [360.00] - Google Loss: [0.00%] - Google Ping: [727.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s]
+[2021-10-18 16:28:05,793][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:05,793][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:28:06,794][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-加拿大 IPLC C02 [9/198]
+[2021-10-18 16:28:06,794][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:06,795][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:06,795][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:06,795][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:06,800][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server ca02.cathayroute.com:33400
+[2021-10-18 16:28:07,807][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:28:08,813][INFO][4688834048][geo_ip.py:46]Translating ca02.cathayroute.com to ipv4.
+[2021-10-18 16:28:08,814][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:28:10,493][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.22, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:28:10,494][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:28:15,065][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:28:22,560][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:28:27,371][INFO][4688834048][speed_test.py:127]Node outbound IP : 35.183.25.99, Geo : Canada Montreal, Amazon.com
+[2021-10-18 16:28:27,371][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:28:31,780][INFO][4688834048][speed_test.py:153]Netflix IP : 35.183.25.99
+[2021-10-18 16:28:33,823][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:28:33,824][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:28:36,374][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:28:36,375][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:28:36,375][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:28:36,376][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-加拿大 IPLC C02] - Loss: [0.00%] - TCP Ping: [356.00] - Google Loss: [0.00%] - Google Ping: [748.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 35.183.25.99:27444
+[2021-10-18 16:28:36,376][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:36,377][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:28:37,382][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-加拿大 IPLC C03 [10/198]
+[2021-10-18 16:28:37,382][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:37,383][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:37,384][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:37,384][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:28:37,388][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server ca03.cathayroute.com:33400
+[2021-10-18 16:28:38,392][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:28:39,398][INFO][4688834048][geo_ip.py:46]Translating ca03.cathayroute.com to ipv4.
+[2021-10-18 16:28:39,400][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:28:41,201][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.22, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:28:41,202][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:28:45,772][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:28:53,271][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:28:55,098][INFO][4688834048][speed_test.py:127]Node outbound IP : 35.183.25.99, Geo : Canada Montreal, Amazon.com
+[2021-10-18 16:28:55,098][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:28:59,216][INFO][4688834048][speed_test.py:153]Netflix IP : 35.183.25.99
+[2021-10-18 16:29:01,368][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:29:01,368][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:29:02,793][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:29:02,793][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:29:02,794][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:29:02,794][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-加拿大 IPLC C03] - Loss: [0.00%] - TCP Ping: [356.00] - Google Loss: [0.00%] - Google Ping: [749.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 35.183.25.99:19369
+[2021-10-18 16:29:02,795][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:02,795][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:29:03,800][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-加拿大 IPLC C04 [11/198]
+[2021-10-18 16:29:03,800][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:03,802][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:03,803][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:03,803][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:03,813][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server ca04.cathayroute.com:33400
+[2021-10-18 16:29:04,821][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:29:05,827][INFO][4688834048][geo_ip.py:46]Translating ca04.cathayroute.com to ipv4.
+[2021-10-18 16:29:05,829][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:29:07,819][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.22, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:29:07,820][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:29:12,512][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:29:19,923][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:29:21,645][INFO][4688834048][speed_test.py:127]Node outbound IP : 35.183.25.99, Geo : Canada Montreal, Amazon.com
+[2021-10-18 16:29:21,645][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:29:25,597][INFO][4688834048][speed_test.py:153]Netflix IP : 35.183.25.99
+[2021-10-18 16:29:27,498][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:29:27,498][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:29:29,326][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:29:29,326][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:29:29,327][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:29:29,327][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-加拿大 IPLC C04] - Loss: [0.00%] - TCP Ping: [368.00] - Google Loss: [0.00%] - Google Ping: [740.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 35.183.25.99:24289
+[2021-10-18 16:29:29,328][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:29,329][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:29:30,334][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-加拿大 IPLC C05 [12/198]
+[2021-10-18 16:29:30,334][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:30,335][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:30,335][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:30,335][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:30,339][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server ca05.cathayroute.com:33400
+[2021-10-18 16:29:31,345][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:29:32,349][INFO][4688834048][geo_ip.py:46]Translating ca05.cathayroute.com to ipv4.
+[2021-10-18 16:29:32,359][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:29:38,342][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.22, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:29:38,342][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:29:42,653][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:29:49,928][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:29:51,583][INFO][4688834048][speed_test.py:127]Node outbound IP : 35.183.25.99, Geo : Canada Montreal, Amazon.com
+[2021-10-18 16:29:51,583][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:29:55,350][INFO][4688834048][speed_test.py:153]Netflix IP : 35.183.25.99
+[2021-10-18 16:29:57,226][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:29:57,226][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:29:58,522][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:29:58,522][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:29:58,522][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:29:58,522][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-加拿大 IPLC C05] - Loss: [0.00%] - TCP Ping: [330.00] - Google Loss: [0.00%] - Google Ping: [727.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Full-cone NAT - Internal End: 10.10.20.57:54320 - Public End: 35.183.25.99:37864
+[2021-10-18 16:29:58,523][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:58,523][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:29:59,526][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C01 [13/198]
+[2021-10-18 16:29:59,526][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:59,527][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:59,528][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:59,528][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:29:59,533][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server in01.cathayroute.com:33400
+[2021-10-18 16:30:00,540][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:30:01,546][INFO][4688834048][geo_ip.py:46]Translating in01.cathayroute.com to ipv4.
+[2021-10-18 16:30:01,548][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:30:03,796][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.7, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:30:03,797][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:30:05,304][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:30:14,290][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:30:15,402][INFO][4688834048][speed_test.py:127]Node outbound IP : 13.235.103.183, Geo : India Mumbai, Amazon.com
+[2021-10-18 16:30:15,403][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:30:18,964][INFO][4688834048][speed_test.py:153]Netflix IP : 13.235.103.183
+[2021-10-18 16:30:20,578][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:30:20,579][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:30:23,602][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:30:23,603][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:30:23,603][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:30:23,603][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-印度 班加罗尔 एयरटेल IPLC C01] - Loss: [0.00%] - TCP Ping: [50.00] - Google Loss: [0.00%] - Google Ping: [897.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Blocked
+[2021-10-18 16:30:23,603][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:23,604][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:30:24,608][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C02 [14/198]
+[2021-10-18 16:30:24,608][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:24,609][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:24,609][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:24,609][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:24,613][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server in02.cathayroute.com:33400
+[2021-10-18 16:30:25,619][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:30:26,623][INFO][4688834048][geo_ip.py:46]Translating in02.cathayroute.com to ipv4.
+[2021-10-18 16:30:26,624][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:30:27,788][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.7, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:30:27,789][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:30:29,308][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:30:40,625][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:30:41,662][INFO][4688834048][speed_test.py:127]Node outbound IP : 13.235.103.183, Geo : India Mumbai, Amazon.com
+[2021-10-18 16:30:41,662][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:30:44,535][INFO][4688834048][speed_test.py:153]Netflix IP : 13.235.103.183
+[2021-10-18 16:30:46,131][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:30:46,131][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:30:49,161][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:30:49,161][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:30:49,161][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:30:49,162][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-印度 班加罗尔 एयरटेल IPLC C02] - Loss: [0.00%] - TCP Ping: [51.00] - Google Loss: [0.00%] - Google Ping: [1131.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Blocked
+[2021-10-18 16:30:49,162][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:49,162][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:30:50,166][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C03 [15/198]
+[2021-10-18 16:30:50,166][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:50,167][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:50,168][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:50,168][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:30:50,175][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server in03.cathayroute.com:33400
+[2021-10-18 16:30:51,182][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:30:52,189][INFO][4688834048][geo_ip.py:46]Translating in03.cathayroute.com to ipv4.
+[2021-10-18 16:30:52,191][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:30:53,295][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.7, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:30:53,295][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:30:54,973][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:31:02,713][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:31:03,807][INFO][4688834048][speed_test.py:127]Node outbound IP : 13.235.103.183, Geo : India Mumbai, Amazon.com
+[2021-10-18 16:31:03,807][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:31:06,804][INFO][4688834048][speed_test.py:153]Netflix IP : 13.235.103.183
+[2021-10-18 16:31:08,187][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:31:08,187][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:31:11,223][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:31:11,224][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:31:11,224][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:31:11,224][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-印度 班加罗尔 एयरटेल IPLC C03] - Loss: [0.00%] - TCP Ping: [67.00] - Google Loss: [0.00%] - Google Ping: [773.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Blocked
+[2021-10-18 16:31:11,225][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:11,225][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:31:12,228][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C04 [16/198]
+[2021-10-18 16:31:12,241][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:12,242][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:12,243][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:12,243][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:12,251][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server in04.cathayroute.com:33400
+[2021-10-18 16:31:13,258][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:31:14,262][INFO][4688834048][geo_ip.py:46]Translating in04.cathayroute.com to ipv4.
+[2021-10-18 16:31:14,264][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:31:15,669][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.7, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:31:15,670][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:31:17,160][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:31:25,892][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:31:27,019][INFO][4688834048][speed_test.py:127]Node outbound IP : 13.235.103.183, Geo : India Mumbai, Amazon.com
+[2021-10-18 16:31:27,020][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:31:30,651][INFO][4688834048][speed_test.py:153]Netflix IP : 13.235.103.183
+[2021-10-18 16:31:32,220][INFO][4688834048][speed_test.py:167]Netflix test result: 仅自制剧.
+[2021-10-18 16:31:32,221][INFO][4688834048][speed_test.py:218]Performing UDP NAT Type Test
+[2021-10-18 16:31:35,248][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:31:35,248][WARNING][4688834048][speed_test.py:374]Re-testing node.
+[2021-10-18 16:31:35,249][INFO][4688834048][speed_test_methods.py:44]Starting speed test with FAST
+[2021-10-18 16:31:35,249][INFO][4688834048][speed_test.py:386][🔰国外流量] - [中国-印度 班加罗尔 एयरटेल IPLC C04] - Loss: [0.00%] - TCP Ping: [48.00] - Google Loss: [0.00%] - Google Ping: [871.00] - AvgStSpeed: [0.00MB/s] - AvgMtSpeed: [0.00MB/s] - NAT Type: Blocked
+[2021-10-18 16:31:35,249][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:35,249][INFO][4688834048][base_client.py:51]Client terminated.
+[2021-10-18 16:31:36,254][INFO][4688834048][speed_test.py:242]Starting test 🔰国外流量 - 中国-印度 班加罗尔 एयरटेल IPLC C05 [17/198]
+[2021-10-18 16:31:36,254][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:36,255][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:36,255][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:36,255][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:36,261][INFO][4688834048][client_shadowsocks.py:36]Starting Shadowsocks-libev with server in05.cathayroute.com:33400
+[2021-10-18 16:31:37,267][INFO][4688834048][speed_test.py:276]Client started.
+[2021-10-18 16:31:38,274][INFO][4688834048][geo_ip.py:46]Translating in05.cathayroute.com to ipv4.
+[2021-10-18 16:31:38,275][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:31:40,363][INFO][4688834048][speed_test.py:111]Node inbound IP : 117.176.247.7, Geo : China Chengdu, China Mobile Guangdong
+[2021-10-18 16:31:40,363][INFO][4688834048][speed_test_methods.py:72]Testing latency to server.
+[2021-10-18 16:31:41,867][INFO][4688834048][speed_test_methods.py:68]Testing latency to google.
+[2021-10-18 16:31:45,388][ERROR][4688834048][speed_test.py:208]
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/speed_test.py", line 203, in __tcpPing
+    googlePingTest = st.googlePing()
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/speed_test_methods.py", line 69, in googlePing
+    return google_ping(LOCAL_ADDRESS, LOCAL_PORT)
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/speed_test/test_methods/ping.py", line 62, in google_ping
+    s.recv(1)
+KeyboardInterrupt
+[2021-10-18 16:31:45,389][INFO][4688834048][geo_ip.py:63]Starting Geo IP.
+[2021-10-18 16:31:45,393][ERROR][4688834048][geo_ip.py:76]Geo IP Failed.
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/socks.py", line 787, in connect
+    super(socksocket, self).connect(proxy_addr)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/contrib/socks.py", line 96, in _new_conn
+    conn = socks.create_connection(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/socks.py", line 209, in create_connection
+    raise err
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/socks.py", line 199, in create_connection
+    sock.connect((remote_host, remote_port))
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/socks.py", line 47, in wrapper
+    return function(*args, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/socks.py", line 800, in connect
+    raise ProxyConnectionError(msg, error)
+socks.ProxyConnectionError: Error connecting to SOCKS5 proxy 127.0.0.1:1087: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connection.py", line 353, in connect
+    conn = self._new_conn()
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/contrib/socks.py", line 127, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f90ff40>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f90ff40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/chinnsenn/Developments.localized/PythonProjects/SSRSpeedN-Mod/ssrspeed/utils/geo_ip.py", line 66, in IPLoc
+    rep = requests.get("https://api.ip.sb/geoip/{}".format(ip),proxies = {
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/chinnsenn/.pyenv/versions/3.9.5/lib/python3.9/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: SOCKSHTTPSConnectionPool(host='api.ip.sb', port=443): Max retries exceeded with url: /geoip/ (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10f90ff40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+[2021-10-18 16:31:45,406][INFO][4688834048][speed_test.py:127]Node outbound IP : N/A, Geo : N/A Unknown City, N/A
+[2021-10-18 16:31:45,407][INFO][4688834048][speed_test.py:135]Performing netflix test LOCAL_PORT: 1087.
+[2021-10-18 16:31:45,460][ERROR][4688834048][speed_test.py:177]代理服务器连接异常：(MaxRetryError("SOCKSHTTPSConnectionPool(host='www.netflix.com', port=443): Max retries exceeded with url: /title/70242311 (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSHTTPSConnection object at 0x10fa76b50>: Failed to establish a new connection: [Errno 61] Connection refused'))"),)
+[2021-10-18 16:31:45,460][INFO][4688834048][platform_check.py:9]Platform Info : macOS-11.6-x86_64-i386-64bit
+[2021-10-18 16:31:45,461][INFO][4688834048][base_client.py:51]Client terminated.

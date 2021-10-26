@@ -16,7 +16,7 @@ class RequirementsCheck(object):
 				"./clients/shadowsocks-libev/obfs-local.exe",
 				"./clients/shadowsocks-libev/simple-obfs.exe",
 				"./clients/shadowsocks-libev/ss-local.exe",
-				"./clients/shadowsocks-libev/ss-tunnel.exe"
+				"./clients/shadowsocks-libev/ss-tunnel.exe",
 			],
 			"ShadowsocksR-libev":[
 				"./clients/shadowsocksr-libev/libssp-0.dll",
@@ -35,6 +35,11 @@ class RequirementsCheck(object):
 		}
 
 		self.__linuxRequire = {
+			"Shadowsocks-libev":[
+				"./clients/shadowsocks-libev/obfs-local",
+				"./clients/shadowsocks-libev/ss-local",
+				"./clients/shadowsocks-libev/ss-tunnel"
+			],
 			"V2Ray-Core":[
 				"./clients/v2ray-core/v2ctl",
 				"./clients/v2ray-core/v2ray"
@@ -67,7 +72,7 @@ class RequirementsCheck(object):
 			logger.critical("Requirement libsodium not found !!!")
 			sys.exit(1)
 		self.__checks(self.__linuxRequire)
-		self.__linuxCheckShadowsocks()	
+		# self.__linuxCheckShadowsocks()
 
 	def __linuxCheckLibsodium(self):
 		logger.info("Checking libsodium.")

@@ -1,0 +1,7 @@
+/logs
+/results
+/.idea/
+/.vscode
+/colorlog
+*.pyc
+*/__pycache__

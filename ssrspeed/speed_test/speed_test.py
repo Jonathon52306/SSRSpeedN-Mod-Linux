@@ -405,7 +405,7 @@ class SpeedTest(object):
 				if client:
 					client.stopClient()
 				node = self.__get_next_config()
-				time.sleep(1)
+				time.sleep(3)
 
 		self.__current = {}
 

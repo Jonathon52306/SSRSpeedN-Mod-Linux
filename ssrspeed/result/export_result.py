@@ -33,6 +33,7 @@ class ExportResult(object):
 		self.__hide_max_speed = config["exportResult"]["hide_max_speed"]
 		self.__hide_ntt = not config["ntt"]["enabled"]
 		self.__hide_netflix = not config["netflix"]
+		self.__hide_stream = not config["stream"]
 		self.__hide_stspeed = not config["StSpeed"]
 		self.__colors = {}
 		self.__colorSpeedList = []
@@ -122,41 +123,58 @@ class ExportResult(object):
 		groupWidth = weight[0]
 		remarkWidth = weight[1]
 		if (groupWidth < 60):
-			groupWidth = 60
+			groupWidth = 150
 		if (remarkWidth < 60):
-			remarkWidth = 90
-		otherWidth = 100
+			remarkWidth = 150
+		otherWidth = 200
+
+		abema_logo = Image.open("./logos/abema.png")
+		abema_logo.thumbnail((28,28))
+		bahamut_logo = Image.open("./logos/Bahamut.png")
+		bahamut_logo.thumbnail((28,28))
+		disney_logo = Image.open("./logos/DisneyPlus.png")
+		disney_logo.thumbnail((28,28))
+		hbo_logo = Image.open("./logos/HBO.png")
+		hbo_logo.thumbnail((28,28))
+		netflix_logo = Image.open("./logos/Netflix.png")
+		netflix_logo.thumbnail((28,28))
+		tvb_logo = Image.open("./logos/tvb.png")
+		tvb_logo.thumbnail((28,28))
+		youtube_logo = Image.open("./logos/YouTube.png")
+		youtube_logo.thumbnail((28,28))
 	
 		groupRightPosition = groupWidth
 		remarkRightPosition = groupRightPosition + remarkWidth
-		lossRightPosition = remarkRightPosition + otherWidth
-		tcpPingRightPosition = lossRightPosition + otherWidth
-		googlePingRightPosition = tcpPingRightPosition + otherWidth + 25
-		dspeedRightPosition = googlePingRightPosition + otherWidth
+		lossRightPosition = remarkRightPosition
+		tcpPingRightPosition = lossRightPosition
+		googlePingRightPosition = tcpPingRightPosition
+		dspeedRightPosition = googlePingRightPosition
 		maxDSpeedRightPosition = dspeedRightPosition     
 		imageRightPosition = dspeedRightPosition
-		ntt_right_position = imageRightPosition
-		netflix_right_position = imageRightPosition
 
 		if not self.__hide_max_speed:
-			imageRightPosition = maxDSpeedRightPosition + otherWidth 
+			imageRightPosition = maxDSpeedRightPosition 
 		maxDSpeedRightPosition = imageRightPosition              
 
 		if not self.__hide_ntt:
-			imageRightPosition = imageRightPosition + otherWidth + 80
+			imageRightPosition = imageRightPosition
 		ntt_right_position = imageRightPosition
             
 		if not self.__hide_netflix:
-			imageRightPosition = imageRightPosition + otherWidth + 60
+			imageRightPosition = imageRightPosition + otherWidth + 150
 		netflix_right_position = imageRightPosition
 
-		newImageHeight = imageHeight + 30 * 5
+		if not self.__hide_stream:
+			imageRightPosition = imageRightPosition + otherWidth + 150
+		stream_right_position = imageRightPosition
+
+		newImageHeight = imageHeight + 30 * 6
 		resultImg = Image.new("RGB",(imageRightPosition, newImageHeight),(255,255,255))
 		draw = ImageDraw.Draw(resultImg)
 
 		
 	#	draw.line((0,newImageHeight - 30 - 1,imageRightPosition,newImageHeight - 30 - 1),fill=(127,127,127),width=1)
-		text = "机场奈飞解锁批量检测工具 Mod By 肥羊".format(config["VERSION"])
+		text = "机场流媒体解锁批量检测工具 Mod By 肥羊".format(config["VERSION"])
 		draw.text((self.__getBasePos(imageRightPosition, text), 4),
 			text,
 			font=resultFont,
@@ -167,9 +185,12 @@ class ExportResult(object):
 		draw.line((1, 0, 1, newImageHeight - 1),fill=(127,127,127),width=1)
 		draw.line((groupRightPosition, 30, groupRightPosition, imageHeight + 30 - 1),fill=(127,127,127),width=1)
 		draw.line((remarkRightPosition, 30, remarkRightPosition, imageHeight + 30 - 1),fill=(127,127,127),width=1)
-
+		
 		if not self.__hide_netflix:
-			draw.line((netflix_right_position, 30, netflix_right_position, imageHeight + 30 - 1),fill=(127,127,127),width=1)  
+			draw.line((netflix_right_position, 30, netflix_right_position, imageHeight + 30 - 1),fill=(127,127,127),width=1)
+
+		if not self.__hide_stream:
+			draw.line((stream_right_position, 30, stream_right_position, imageHeight + 30 - 1),fill=(127,127,127),width=1)
             
 		draw.line((imageRightPosition, 0, imageRightPosition, newImageHeight - 1),fill=(127,127,127),width=1)
 	
@@ -190,14 +211,22 @@ class ExportResult(object):
 			"Remarks", font=resultFont, fill=(0,0,0)
 		
 		)
-	
+		
 		if not self.__hide_netflix:
 			draw.text(
 				(
 					ntt_right_position + self.__getBasePos(netflix_right_position - ntt_right_position, "Netfilx 解锁"), 30 + 4
 					),
 				"Netfilx 解锁", font=resultFont, fill=(0,0,0)
-			)	
+			)
+
+		if not self.__hide_stream:
+			draw.text(
+				(
+					netflix_right_position + self.__getBasePos(stream_right_position - netflix_right_position, "流媒体解锁"), 30 + 4
+					),
+				"流媒体解锁", font=resultFont, fill=(0,0,0)
+			)
 		draw.line((0, 60, imageRightPosition - 1, 60),fill=(127,127,127),width=1)
 
 		totalTraffic = 0
@@ -221,6 +250,42 @@ class ExportResult(object):
 				netflix_type = item["Ntype"]
 				pos = ntt_right_position + self.__getBasePos(netflix_right_position - ntt_right_position, netflix_type)
 				draw.text((pos, 30 * j + 30 + 1), netflix_type,font=resultFont,fill=(0,0,0))
+
+			if not self.__hide_stream:
+				netflix_type = item["Ntype"]
+				hbo_type = item["Htype"]
+				disney_type = item["Dtype"]
+				youtube_type = item["Ytype"]
+				abema_type = item["Atype"]
+				bahamut_type = item["Btype"]
+				tvb_type = item["Ttype"]
+				if(netflix_type == "原生解锁" or netflix_type == "DNS解锁"):
+					n_type = True
+				else:
+					n_type = False
+				sums = n_type + hbo_type + disney_type + youtube_type + abema_type + bahamut_type + tvb_type
+				pos = netflix_right_position + (stream_right_position - netflix_right_position - sums * 35) / 2
+				if n_type:
+					resultImg.paste(netflix_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
+				if hbo_type:
+					resultImg.paste(hbo_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
+				if disney_type:
+					resultImg.paste(disney_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
+				if youtube_type:
+					resultImg.paste(youtube_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
+				if abema_type:
+					resultImg.paste(abema_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
+				if bahamut_type:
+					resultImg.paste(bahamut_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
+				if tvb_type:
+					resultImg.paste(tvb_logo, (int(pos), 30 * j + 30 + 1))
+					pos += 35
                     
 		files = []
 		if (totalTraffic < 0):
@@ -229,7 +294,7 @@ class ExportResult(object):
 			trafficUsed = self.__parseTraffic(totalTraffic)
 
 		draw.text((5, imageHeight + 30 + 6),
-			"注：原生解锁和DNS解锁只是解锁方式有区别，在电视端使用时DNS解锁“可能”会提示使用代理\n未解锁表示该节点可用，但看不了奈飞，None表示连接奈飞服务器失败，N/A表示该节点不可用\n本次节点存活情况: [{}/{}]".format(
+			"注：流媒体解锁检测包含：奈飞、YouTuBe Premium、巴哈姆特、Disney Plus、TVB系列、Abema TV、HBO MAX\n原生解锁和DNS解锁只是解锁方式有区别，在电视端使用时DNS解锁“可能”会提示使用代理\n未解锁表示该节点可用，但看不了奈飞，None表示连接奈飞服务器失败，N/A表示该节点不可用\n本次节点存活情况: [{}/{}]".format(
 				onlineNode,
 				len(result)
 			),
@@ -237,7 +302,7 @@ class ExportResult(object):
 			fill=(0,0,0)
 		)
 	#	draw.line((0,newImageHeight - 30 * 3 - 1,imageRightPosition,newImageHeight - 30 * 3 - 1),fill=(127,127,127),width=1)
-		draw.text((5,imageHeight + 30 * 4 + 2),
+		draw.text((5,imageHeight + 30 * 5 + 2),
 			"肥羊的YouTuBe频道：https://v1.mk/yt  本次更新时间：{}".format(
 				time.strftime("%Y-%m-%d %H:%M:%S", generatedTime)
 			),
@@ -315,5 +380,10 @@ class ExportResult(object):
 
 
 	def __exportAsJson(self,result):
+	#	result = self.__deweighting(result)
+		filename = "./results/" + time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime()) + ".json"
+		with open(filename,"w+",encoding="utf-8") as f:
+			f.writelines(json.dumps(result,sort_keys=True,indent=4,separators=(',',':')))
+		logger.info("Result exported as %s" % filename)
 		return result
 

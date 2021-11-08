@@ -3,6 +3,6 @@
 /.idea/
 /.vscode
 /colorlog
-*.pyc
-*/__pycache__
 config.json
+ *.pyc
+**/*.pyc

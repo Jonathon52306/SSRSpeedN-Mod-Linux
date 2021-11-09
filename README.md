@@ -6,10 +6,12 @@
 ## 运行环境
 
 `
-Macbook Pro
+Macbook Pro Intel Version
 macOS 11.6
 Python 3.9.5
 `
+
+由于鄙人用的是 intel 版本的 Macbook ，该项目暂时不支持 Arm 架构 macbook
 
 使用需要一点 python 基础
 ## 使用步骤

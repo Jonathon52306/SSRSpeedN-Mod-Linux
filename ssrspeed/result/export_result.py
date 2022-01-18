@@ -174,7 +174,7 @@ class ExportResult(object):
 
 		
 	#	draw.line((0,newImageHeight - 30 - 1,imageRightPosition,newImageHeight - 30 - 1),fill=(127,127,127),width=1)
-		text = "机场流媒体解锁批量检测工具 Mod By 肥羊".format(config["VERSION"])
+		text = "流媒体解锁批量检测工具".format(config["VERSION"])
 		draw.text((self.__getBasePos(imageRightPosition, text), 4),
 			text,
 			font=resultFont,
@@ -301,15 +301,7 @@ class ExportResult(object):
 			font=resultFont,
 			fill=(0,0,0)
 		)
-	#	draw.line((0,newImageHeight - 30 * 3 - 1,imageRightPosition,newImageHeight - 30 * 3 - 1),fill=(127,127,127),width=1)
-		draw.text((5,imageHeight + 30 * 5 + 2),
-			"肥羊的YouTuBe频道：https://v1.mk/yt  本次更新时间：{}".format(
-				time.strftime("%Y-%m-%d %H:%M:%S", generatedTime)
-			),
-			font=resultFont,
-			fill=(0,0,0)
-		)
-		draw.line((0,newImageHeight - 30 - 1,imageRightPosition,newImageHeight - 30 - 1),fill=(127,127,127),width=1)
+		draw.line((0,newImageHeight - 30 * 3 - 1,imageRightPosition,newImageHeight - 30 * 3 - 1),fill=(127,127,127),width=1)
 		'''
 		draw.line((0,newImageHeight - 30 - 1,imageRightPosition,newImageHeight - 30 - 1),fill=(127,127,127),width=1)
 		draw.text((5,imageHeight + 30 * 2 + 4),
